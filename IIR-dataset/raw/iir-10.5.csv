@@ -1,0 +1,46 @@
+Concept,Mengdi,Nidhi,Mingyan,Mengdi (after),Nidhi (after),Mingyan (after),Notes
+['text-centric xml'],1,1,1,1,1,1,
+['data-centric xml'],1,1,1,1,1,1,
+['text-centric retrieval engine'],1,1,0,1,1,0,text-centric retireval engine?
+['data-centric xml retrieval'],1,1,1,1,1,1,
+['structured retrieval'],1,1,1,1,1,1,
+['xml structure'],1,1,1,1,1,1,
+"['query', 'queries']",1,1,1,1,1,1,
+['query'],1,1,1,1,1,1,
+['queries'],1,1,1,1,1,1,
+['xml documents'],1,1,1,1,1,1,
+['unstructured retrieval methods'],1,1,1,1,1,1,
+['additional structural constraints'],1,0,0,0,0,0,additional is general
+['xml document retrieval'],1,1,1,1,1,1,
+['inexact matching'],1,0,0,0,0,0,general
+['relevance-ranked results'],1,1,0,1,1,0,results seems to be general
+['relational databases'],1,1,1,1,1,1,
+['exact match conditions'],1,0,0,0,0,0,
+['xml queries'],1,1,1,1,1,1,
+['ranking'],1,1,1,1,1,1,
+['text-centric approaches'],1,1,1,1,1,1,
+['xml'],1,1,1,1,1,1,
+['data-centric approaches'],1,1,1,1,1,1,
+['text-centric retrieval engine'],1,1,1,1,1,1,
+['text-centric structured retrieval model'],1,1,1,1,1,1,
+['query languages'],1,1,1,1,1,1,
+['xquery'],1,1,1,1,1,1,
+['xquery-based ranked retrieval system'],1,1,1,1,1,1,
+['information retrieval'],1,1,1,1,1,1,
+['xml retrieval'],1,1,1,1,1,1,
+['data-centric xml retrieval systems'],1,1,1,1,1,1,
+['text-centric xml retrieval'],0,1,1,1,1,1,
+"['ordering constraints', 'ordering constraint']",0,1,1,0,0,1,
+['joins'],0,1,1,1,1,1,
+['database framework'],0,1,1,1,1,1,
+['tuples'],0,1,1,1,1,1,
+['structural constraints'],0,0,1,0,0,1,I claimed before
+['text fields'],0,0,1,0,0,1,field is special. text field is a specific field
+['information need'],0,0,1,1,1,1,
+['document structure'],0,0,1,0,0,0,not sure
+['de facto standard'],0,0,1,0,0,0,english problem..
+"['databases', 'database']",0,1,1,1,1,1,
+['data collections'],0,1,1,1,1,1,
+['elements'],0,0,1,0,0,1,special for xml
+['node'],0,0,1,0,0,1,cs domain
+['relation database'],0,0,1,0,0,0,typo

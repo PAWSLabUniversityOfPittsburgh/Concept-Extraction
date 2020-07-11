@@ -1,0 +1,64 @@
+Concept,Mengdi,Nidhi,Mingyan,Mengdi (after),Nidhi (after),Mingyan (after),Notes
+['xml retrieval'],1,1,1,1,1,1,
+['structured retrieval'],1,1,1,1,1,1,
+['unstructured retrieval'],1,1,1,1,1,1,
+"['collection', 'collections']",1,1,1,1,1,1,
+['structured documents'],1,1,1,1,1,1,
+"['queries', 'query']",1,1,1,1,1,1,
+"['documents', 'document']",1,1,1,1,1,1,
+['xml elements'],1,1,1,1,1,1,
+['ir systems'],1,1,1,1,1,1,
+['structured document retrieval principle'],1,1,1,1,1,1,
+"['tree', 'trees']",1,1,1,1,1,1,
+"['indexing unit', 'indexing units']",1,1,1,1,1,1,
+['non-overlapping pseudodocuments'],1,1,0,1,1,0,I think non-overlapping is easy to be understood
+['leaves'],1,1,1,1,1,1,
+['relevance'],1,1,1,1,1,1,
+['leaf element'],1,1,1,1,1,1,
+['nested elements'],1,1,1,1,1,1,
+['xml retrieval system'],1,1,1,1,1,1,
+"['query terms', 'query term']",1,1,1,1,1,1,
+['structured queries'],1,1,1,1,1,1,
+['nesting'],1,0,0,0,0,0,I don't know if it's too general
+['term'],1,1,1,1,1,1,
+['inverse document frequency'],1,1,1,1,1,1,
+['ir'],1,1,1,1,1,1,
+['xml documents'],1,1,1,1,1,1,
+['schema heterogeneity'],1,1,1,1,1,1,
+['schema diversity'],1,1,1,1,1,1,
+['document structures'],1,1,1,1,1,1,
+['query interface'],1,1,1,1,1,1,
+['parent-child relationships'],1,1,1,1,1,1,
+"['extended queries', 'extended query']",1,1,1,1,1,1,
+['indexing'],1,1,1,1,1,1,
+['document unit'],0,1,1,1,1,1,
+['term statistics'],0,1,0,0,0,0,I think statistics is not specail
+['ranking'],0,1,1,1,1,1,
+['document frequency'],1,1,1,1,1,1,
+['idf'],1,1,1,1,1,1,
+['idf weights'],1,1,1,1,1,1,
+['xml-context pairs'],1,1,1,1,1,1,
+['df'],1,1,1,1,1,1,
+['xml schemas'],1,1,1,1,1,1,
+['ir application'],0,1,0,1,1,0,"application is general, how about problem? "
+['keyword queries'],0,1,1,1,1,1,
+['pseudo-xpath notation'],1,1,1,1,1,1,
+['retrieval'],1,1,1,1,1,1,
+['nodes'],0,0,1,0,0,1,I think node in CS domain is always specail. Tree nodes?
+['pseudodocuments'],1,1,1,1,1,1,
+"['elements', 'element']",0,0,1,0,0,1,element is special in xml. The same as term in IR. XML element? 
+"['subelements', 'subelement']",0,0,1,0,0,1,same as element
+['typographical elements'],0,0,1,0,0,1,It's a kind of specific elements in XML. You can just google xml typographical elements. It refers to some specific elements
+['path'],0,0,1,0,0,1,path in xml is also special.
+['root node'],1,1,1,1,1,1,
+['leaf node'],1,1,1,1,1,1,
+['element types'],0,0,1,0,0,1,I think it is specail because people who don't know xml can never get the detail about it. XML element
+"['schema', 'schemas']",0,0,1,0,0,0,
+['content node'],0,0,1,0,0,1,I just think node should be a concept and content node is a specific kind of nodes. (is not widely use)
+['sparse data problems'],1,0,1,1,1,1,
+['xml-term pairs'],0,0,1,1,0,1,The oringal format is xml-content/term pairs. I just handle / as the way we handle and.
+['parent node'],1,0,1,1,1,1,
+['root'],0,0,1,0,0,1,I think root is special in CS domain
+['intervening nodes'],0,0,1,0,0,1,intervening may be general. I'm not sure. I wonder if people without data structure knoweladge can understand what it is
+['tree structure'],1,1,1,1,1,1,
+['structural constraints'],0,0,1,0,0,1,I remember it appears many times in one section. It seems to be important

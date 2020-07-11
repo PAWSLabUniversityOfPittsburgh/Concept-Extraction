@@ -1,0 +1,72 @@
+Concept,Mengdi,Nidhi,Mingyan,Mengdi (after),Nidhi (after),Mingyan (after),Notes
+['vector space model'],1,1,1,1,1,1,
+['xml retrieval'],1,1,1,1,1,1,
+"['node', 'nodes']",1,1,1,1,1,1,
+['leaf'],1,1,1,1,1,1,relavent to tree; how about tree leaf
+['vector space'],1,1,1,1,1,1,
+"['lexicalized subtrees', 'lexicalized subtree']",1,1,1,1,1,1,
+"['documents', 'document']",1,1,1,1,1,1,
+['documents'],1,1,1,1,1,1,
+['document'],1,1,1,1,1,1,
+['subtrees'],1,1,1,1,1,1,
+"['vocabulary term', 'vocabulary terms']",1,1,1,1,1,1,
+['leaf node'],1,1,1,1,1,1,
+"['queries', 'query']",1,1,1,1,1,1,
+['matches'],1,0,0,0,0,0,too general
+['dimensionality of the space'],1,0,0,1,0,0,of format
+['accuracy'],1,0,0,1,0,0,I'm not sure about that. Relevance is special because there are specific methods to judge it. But I don't remember there is method to judge accuracy.
+['vector space retrieval system'],1,1,1,1,1,1,
+['collection'],1,1,1,1,1,1,
+['paths'],1,1,1,1,1,1,
+"['xml-context/term pairs', 'xml-context/term pair']",1,1,1,1,1,1,
+"['structural term', 'structural terms']",1,1,1,1,1,1,
+['extended queries'],1,1,1,1,1,1,
+['context resemblance'],1,1,1,1,1,1,
+['query path'],1,1,1,1,1,1,
+['document path'],1,1,1,1,1,1,
+['simnomerge'],1,0,0,0,0,0,I think it's just a function named by the author
+['vocabulary of non-structural terms'],1,0,0,1,0,0,of format
+"['xml contexts', 'xml context']",1,1,1,1,1,1,
+"['weights', 'weight', 'weightings']",1,1,1,1,1,1,
+['weightings'],1,1,1,1,1,1,
+['inverse document frequency'],1,1,1,1,1,1,
+['cosine measure'],1,1,1,1,1,1,
+['query length normalization'],1,1,1,1,1,1,
+['normalizer'],1,1,1,1,1,1,
+['query-document similarities'],1,0,1,1,1,1,
+['highest ranking document'],1,0,0,0,0,0,highest is general
+['sparse term statistics'],1,1,1,1,1,1,
+['matching function'],1,1,1,1,1,1,
+['simmerge'],1,0,0,0,0,0,I think it's just a function named by the author
+['effectiveness of xml retrieval'],1,0,0,,0,0,of format
+['unstructured retrieval'],1,1,1,1,1,1,
+['xml tree'],1,1,1,1,1,1,
+['lexicalized subtrees of documents'],0,1,0,1,1,0,one extra space and of format
+['vectors'],0,1,0,0,0,0,general
+['query results'],0,1,0,0,0,0,general
+['single vocabulary term'],0,1,0,0,0,0,single is general
+['pseudo-xpath notation'],0,1,1,1,1,1,
+['schema'],0,1,1,0,,1,I'm not sure
+['query structure'],1,1,1,1,1,1,
+['non-structural terms'],1,1,1,1,1,1,
+['vocabulary'],1,1,1,1,1,1,
+['document length'],0,1,0,0,0,0,length is general
+['query length'],0,1,0,0,0,0,length is general
+['query-document similarity function'],1,1,1,1,1,1,
+['document frequency'],0,1,1,1,1,1,
+['non-zero context resemblance'],0,1,0,0,0,0,non-zero is general
+['query structural term'],0,1,1,1,1,1,
+['query term'],1,1,1,1,1,1,
+['context resemblance function'],0,1,1,1,1,1,
+['text node'],0,0,1,0,0,1,same reason as the one for content node in last section
+['leaves'],1,0,1,0,0,1,
+['lexicalized sbutree'],0,0,1,0,0,0,typo
+"['xml-context pairs', 'xml-context pair']",1,1,1,1,1,1,
+['intervening nodes'],0,0,1,0,0,1,I claimed in last section
+['parent-child node pair'],0,0,1,1,1,1,I think it is
+['array normalizer'],0,0,1,1,1,1,a specific kind of normalizer
+"['postings lists', 'postings list']",1,1,1,1,1,1,
+['similarity function'],1,1,1,1,1,1,
+['robustness'],0,0,1,0,0,1,I think it's specail in CS domain right? For judging algorithm
+['structural queries'],1,1,1,1,1,1,
+['effectiveness'],1,0,1,0,0,0,"Well, Peter seems to have different idea?"

@@ -1,0 +1,110 @@
+Concept,Mengdi,Nidhi,Mingyan,Mengdi (after),Nidhi (after),Mingyan (after),Notes
+['vocabulary'],1,0,0,1,1,1,miss
+"['terms', 'term']",1,0,1,1,1,1,miss
+"['tokenization', 'tokens', 'tokenizer', 'token']",1,1,1,1,1,1,
+['type'],1,1,1,1,1,1,
+"['ir systems', 'ir system']",1,0,1,1,1,1,miss
+"['document', 'documents']",1,1,1,1,1,1,
+['normalization processes'],1,0,0,1,1,1,longest
+"['query', 'queries']",1,1,1,1,1,1,
+['language identification'],1,1,1,1,1,1,
+['database'],1,0,1,1,1,1,cs domain
+"['hyphenation', 'hyphen', 'hyphens']",1,1,1,1,1,1,
+['document metadata'],1,0,1,1,0,1,combiation
+"['phrase queries', 'phrase query']",1,0,1,1,1,1,miss
+['boolean retrieval systems'],1,0,0,1,1,1,miss
+['retrieval systems'],1,0,0,1,1,1,miss
+['compounds'],1,1,1,1,1,1,
+['compound-splitter'],1,1,1,1,1,1,
+['word segmentation'],1,1,1,1,1,1,
+['hidden markov models'],1,0,1,1,1,1,miss
+['conditional random fields'],1,0,1,1,1,1,miss
+['segmentations'],1,0,0,1,1,1,miss
+['word-based indexing'],1,0,1,1,1,1,miss
+['stop words'],1,1,1,1,1,1,
+['collection frequency'],1,1,1,1,1,1,
+"['stop list', 'stop lists']",1,1,1,1,1,1,
+['document rankings'],1,0,1,1,1,1,miss
+"['postings lists', 'postings list']",1,1,1,1,1,1,
+"['normalization', 'normalizations']",1,1,1,1,1,1,
+['token normalization'],1,1,1,1,1,1,
+"['equivalence classes', 'equivalence class', 'equivalence classing']",1,1,1,1,1,1,
+['query expansion'],1,1,0,1,1,1,miss
+['capitalization'],1,1,0,0,0,0,
+['case-folding'],1,1,1,1,1,1,
+['truecasing'],1,0,1,1,1,1,
+['standardization'],1,0,0,0,0,0,
+"['document collections', 'document collection']",1,1,1,1,1,1,
+['language identification classifier'],1,1,0,1,1,1,
+['stemming'],1,1,1,1,1,1,
+"['lemmatization', 'lemmatizer']",1,1,1,1,1,1,
+['lemma'],1,1,1,1,1,1,
+['porterâ\x80\x99s algorithm'],1,1,0,1,1,1,
+['lovins stemmer'],1,1,1,1,1,1,
+['recall'],1,0,0,1,1,1,miss
+['precision'],1,0,0,1,1,1,miss
+['words'],0,1,0,0,0,0,
+['type/token distinction'],0,1,0,1,1,1,
+['token distinction'],0,1,0,1,1,1, 
+['ir'],0,1,0,1,1,1,miss
+['dictionary'],0,1,1,1,1,1,miss
+"['index', 'indexing']",0,1,1,1,1,1,miss
+['semantic identifiers'],0,1,0,1,1,1,
+['tokenization phase'],0,1,0,1,1,1,
+['boolean'],0,1,0,1,1,1,miss
+"['boolean query', 'boolean queries']",0,1,1,1,1,1,miss
+['preprocessing'],0,1,0,0,0,0,
+['free text queries'],0,1,1,1,1,1,miss
+['linguistic processing'],0,1,1,1,1,1,miss
+['character k-grams'],0,1,0,1,1,1,
+['postings'],0,1,1,1,1,1,miss
+"['phrase search', 'phrase searches']",0,1,1,1,1,1,miss
+['query processing time'],0,1,0,0,0,0,
+['text'],0,1,0,0,0,0,
+['unnormalized tokens'],0,1,0,1,1,1,
+['accent'],0,1,0,0,0,0,
+['diacritics'],0,1,0,0,0,0,
+['truecasing.'],0,1,0,0,0,0,delete . 
+['soundex algorithm'],0,1,1,1,1,1,
+['measure of a word'],0,1,0,0,0,0,
+['one-pass lovins stemmer'],0,1,0,1,1,1,longest
+['paice/husk stemmer'],0,1,1,1,1,1,
+['natural language processing'],0,1,1,1,1,1,
+['morphological analysis'],0,1,1,1,1,1,
+['sample text'],0,1,0,0,0,0,
+['analysis'],0,1,0,0,0,0,
+['features'],0,1,0,1,1,0,
+['expression'],0,1,0,0,0,0,
+['compound splitting'],0,1,0,0,0,0,
+['document unit'],0,0,1,1,1,1,
+['index terms'],0,0,1,1,1,1,
+['identifiers'],0,0,1,0,0,0,longest phrase
+['classifiers'],0,0,1,1,1,1,
+['classification problem'],0,0,1,1,1,1,
+['heuristic rules'],0,0,1,0,0,1,
+['search'],0,0,1,1,1,1,
+['phrase index'],0,0,1,1,1,1,miss
+['boolean retrieval ystems'],0,0,1,0,0,0,typo
+['indexing retrieval systems'],0,0,1,1,1,1,
+['compound-splitter module'],0,0,1,1,1,1,
+['prior linguistic processing'],0,0,1,0,0,0,prior is general
+"['heuristics', 'heuristic']",0,0,1,0,0,1,
+"['machine learning sequence models', 'machine learning sequence model']",0,0,1,1,1,1,
+['k-grams'],0,0,1,0,0,0,logest 
+['writing system'],0,0,1,0,0,0,
+['keyword searches'],0,0,1,1,1,1,
+"['web search engines', 'web search engine']",0,0,1,1,1,1,
+['compression techniques'],0,0,1,1,1,1,
+['impact-sorted indexes'],0,0,1,1,1,1,
+['token list'],0,0,1,1,1,1,miss
+['query expansion list'],0,0,1,1,1,1,miss
+['query term'],0,0,1,1,1,1,
+['query expansion dictionary'],0,0,1,1,1,1,
+['non-ascii text'],0,0,1,1,1,1,
+['retrieval'],0,0,1,1,1,1,
+['phonetic equivalents'],0,0,1,1,1,1,
+['algorithm'],0,0,1,0,0,1,
+['poter stemmer'],0,0,1,0,0,0,typo
+"['stemmers', 'stemmer']",0,0,1,1,1,1,
+['recall precision'],0,0,1,0,0,0,
+['linguistic morphology'],0,0,1,1,1,1,
