@@ -3,7 +3,7 @@
 # Ignore data files
 archive/
 __pycache__/
-.raw/
+raw/
 .idea/
 utils.py
 process.py
