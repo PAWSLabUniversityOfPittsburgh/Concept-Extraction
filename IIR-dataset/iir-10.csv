@@ -1,0 +1,74 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['information retrieval systems'],1,1,1
+"['relational databases', 'relational database']",1,1,1
+['ir systems'],1,1,1
+['unstructured text'],1,1,1
+['relational data'],1,1,1
+['information retrieval'],1,1,1
+['database systems'],1,1,1
+['retrieval model'],1,1,1
+['data structures'],1,1,1
+['query language'],1,1,1
+['structured text search problems'],1,1,1
+['sql query'],1,1,1
+['precision'],1,1,1
+['recall'],1,1,1
+['structured documents'],1,1,1
+['structured retrieval'],1,1,1
+"['queries', 'query']",1,1,1
+['collection'],1,1,1
+['structured queries'],1,1,1
+['unranked retrieval models'],1,1,1
+['boolean model'],1,1,1
+['unranked system'],1,1,0
+['search system'],1,1,1
+['search'],1,1,1
+['structured search'],1,1,1
+['ranked retrieval methods'],1,1,1
+['extensible markup language'],1,1,1
+['xml'],1,1,1
+['html'],1,1,1
+['documents'],1,1,1
+['data-centric xml'],1,1,1
+['semistructured retrieval'],1,1,1
+['semistructured queries'],1,1,1
+['database querying'],1,1,1
+['parametric search'],1,1,1
+['zone search'],1,1,1
+['parametric fields'],1,1,1
+['zones'],1,1,1
+['tree structure'],1,1,1
+['inex'],1,1,1
+['data-centric approaches'],1,1,1
+['text-centric approaches'],1,1,1
+['xml retrieval'],1,1,1
+['markup'],1,1,1
+['databases'],1,1,1
+['records'],0,0,0
+['patent databases'],1,1,1
+['blogs'],0,0,0
+['text'],0,0,0
+['named entity tagging'],1,1,1
+['marked up text'],1,1,1
+['applications'],0,0,0
+['unranked retrieval system'],1,1,1
+['users'],0,0,0
+['markup languages'],1,1,1
+['non-text data'],0,0,0
+['xml format'],1,1,1
+['enterprise resource planning system'],0,1,0
+['analytics program'],0,0,0
+['inverted index-based methods'],1,1,1
+['text-centric xml'],1,1,1
+['term'],0,0,0
+['information retrieval problem'],1,1,1
+['data model'],1,1,1
+['xml documents'],1,1,1
+['shared task evaluation'],0,0,0
+['information need'],1,1,1
+['structured data'],1,1,1
+['digital libraries'],0,0,1
+['sgml'],1,1,1
+['xml queries'],1,1,1
+['unstructured retrieval'],1,1,1
+['vector space model'],1,1,1

@@ -1,0 +1,30 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['boolean retrieval model'],1,1,1
+['simple conjunctive query'],1,1,1
+['dictionary'],1,1,1
+['intersection'],1,1,1
+"['postings lists', 'postings list']",1,1,1
+['documents'],1,1,1
+['merge algorithm'],1,1,1
+['docid'],1,1,1
+['query optimization'],1,1,1
+['query processing'],1,1,1
+"['terms', 'term']",1,1,1
+['intersection operation'],0,0,0
+['binary searches'],1,1,1
+"['queries', 'query', 'querying']",1,1,1
+"['boolean query', 'boolean queries']",1,1,1
+['inverted index'],1,1,1
+['conjunctive query'],1,1,1
+['postings merge'],1,1,1
+['merging postings list'],0,1,0
+"['posting', 'postings']",1,1,1
+['document frequency'],1,1,1
+"['pointers', 'pointer']",1,1,1
+['indexing'],1,1,1
+['collection'],1,1,1
+['frequencies'],0,0,0
+['intermediate results list'],0,0,0
+['postings merge algorithm'],0,0,0
+['merging'],1,1,1
+['document collection'],1,1,1

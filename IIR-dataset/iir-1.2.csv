@@ -1,0 +1,39 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['inverted index'],1,1.0,1
+"['index', 'indexing']",1,1.0,1
+['tokens'],1,1.0,1
+['normalized tokens'],1,1.0,1
+['document identifier'],1,1.0,1
+['sorting'],1,1.0,1
+"['document', 'documents']",1,1.0,1
+['dictionary'],1,1.0,1
+"['postings', 'posting']",1,1.0,1
+"['term', 'terms']",1,1.0,1
+['document frequency'],1,1.0,1
+['boolean search engine'],1,1.0,1
+['query'],1,1.0,1
+['ranked retrieval models'],1,1.0,1
+['data structure'],1,1.0,1
+['array'],0,0.0,1
+['text'],0,,0
+['linguistic preprocessing'],0,0.0,0
+['normalize'],0,0.0,0
+['processing'],0,0.0,0
+['words'],0,0.0,0
+['document collection'],1,1.0,1
+['docid'],1,1.0,1
+['index construction'],1,1.0,1
+['ad hoc text search'],1,1.0,1
+['information retrieval'],1,1.0,1
+['inverted file'],1,1.0,1
+['index compression'],1,1.0,1
+['postings list'],1,1.0,1
+['indexing terms'],1,1.0,1
+['sort-based indexing'],1,1.0,1
+['efficiency'],1,1.0,1
+['singly linked lists'],1,1.0,1
+['skip lists'],1,1.0,1
+['explicit pointers'],1,1.0,1
+"['pointer', 'pointers']",1,1.0,1
+['term-document incidence matrix'],1,1.0,1
+['boolean retrieval'],1,1.0,1

@@ -1,0 +1,30 @@
+Concept,Mengdi,Nidhi,Mingyan,Mengdi (after),Nidhi (after),Mingyan (after),Notes
+['boolean retrieval model'],1,1,1,1,1,1,
+['simple conjunctive query'],1,1,1,1,1,1,
+['dictionary'],1,1,1,1,1,1,
+['intersection'],1,1,1,1,1,1,
+"['postings lists', 'postings list']",1,1,1,1,1,1,
+['documents'],1,0,1,1,1,1,
+['merge algorithm'],1,0,1,1,1,1,
+['docid'],1,0,1,1,1,1,
+['query optimization'],1,1,1,1,1,1,
+['query processing'],1,1,0,1,1,1,
+"['terms', 'term']",1,0,1,1,1,1,
+['intersection operation'],1,0,0,0,0,0,cs domain
+['binary searches'],1,0,1,1,1,1,
+"['queries', 'query', 'querying']",1,0,1,1,1,1,
+"['boolean query', 'boolean queries']",0,1,1,1,1,1,
+['inverted index'],0,1,1,1,1,1,
+['conjunctive query'],0,1,0,1,1,1,
+['postings merge'],0,1,0,1,1,1,verb?
+['merging postings list'],0,1,0,0,1,0,explained in the book. Merging and postings list are concept but the combination?
+"['posting', 'postings']",0,1,1,1,1,1,
+['document frequency'],0,1,1,1,1,1,
+"['pointers', 'pointer']",0,0,1,1,1,1,
+['indexing'],0,0,1,1,1,1,
+['collection'],0,0,1,1,1,1,
+['frequencies'],0,0,1,0,0,0,
+['intermediate results list'],0,0,1,0,0,0,
+['postings merge algorithm'],0,0,1,0,0,0,exercise? ignore
+['merging'],0,0,1,1,1,1,
+['document collection'],0,0,1,1,1,1,

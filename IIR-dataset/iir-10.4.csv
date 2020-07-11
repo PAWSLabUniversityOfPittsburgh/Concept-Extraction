@@ -1,0 +1,72 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['evaluation of xml retrieval'],1,0,0
+['inex'],1,1,1
+['initiative for the evaluation of xml retrieval'],1,1,0
+['xml retrieval'],1,1,1
+"['collections', 'collection']",1,1,1
+"['queries', 'query']",1,1,1
+['inex 2002 collection'],1,1,1
+['co topics'],1,1,1
+['content-and-structure topics'],1,1,1
+"['cas topics', 'cas topic']",1,1,1
+['structural constraints'],1,1,1
+['relevance assessments'],1,1,1
+['unstructured retrieval'],1,1,1
+['component coverage'],1,1,1
+['topical relevance'],1,1,1
+['relevance-coverage combinations'],1,1,1
+['binary relevance judgments'],1,1,1
+['unstructured information retrieval'],1,1,1
+['precision'],1,1,1
+['recall'],1,1,1
+['f'],1,1,1
+['binary relevance assessments'],1,1,1
+['relevance'],1,1,1
+['non-redundant results lists'],0,0,0
+['simmerge'],0,0,0
+['precision at k'],1,1,1
+['highly relevant elements'],0,0,0
+['unstructured bags of words'],1,1,1
+"['documents', 'document']",1,1,1
+['structured retrieval'],1,1,1
+['precision-oriented tasks'],1,1,1
+['inex program'],0,1,0
+['relevance judgments'],1,1,1
+['collection statistics'],1,1,1
+['test collection'],1,1,1
+['structured documents'],1,1,1
+['keyword queries'],1,1,1
+['keywords'],0,0,0
+['cas queries'],1,1,1
+['topical relevance dimension'],1,1,0
+['evaluation scheme'],1,1,1
+['marginal relevance'],1,1,1
+['vector space system'],1,1,1
+['keyword matching'],0,0,0
+['xml retrieval effectiveness'],1,1,1
+['language-model-based system'],1,1,1
+['full-structure model'],1,1,1
+['relevane judgments'],1,1,0
+['information needs'],1,1,1
+['structural criteria'],0,0,1
+['content criteria'],0,0,1
+['tree'],1,1,1
+['information sought'],0,0,1
+['coverage'],0,0,1
+['nested elements'],0,0,1
+['algorithms'],1,1,1
+['inex 2002'],0,0,1
+['effectiveness'],0,0,0
+['unstructured retrieval effectiveness'],1,1,1
+['binary relevance'],1,1,1
+['binary evaluation'],1,1,1
+['graded evaluation'],1,1,0
+['inex 2003'],0,0,1
+['inex 2004'],0,0,1
+['evaluation metric'],0,0,0
+['discretiztion function'],0,0,1
+['elements'],0,0,1
+['content-only system'],0,0,0
+['structural filter'],0,0,1
+['relevant documents'],1,1,1
+['precision-oriented tasks structured retrieval'],0,0,0

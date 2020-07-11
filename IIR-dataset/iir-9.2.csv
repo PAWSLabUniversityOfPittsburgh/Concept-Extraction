@@ -1,0 +1,78 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+"['query reformulation', 'query reformulations']",1,1,1.0
+"['search', 'searches']",1,1,1.0
+['ir system'],1,1,1.0
+['inverted index'],1,1,1.0
+"['terms', 'term']",1,1,1.0
+['collection'],1,1,1.0
+['query expansion'],1,1,1.0
+['relevance feedback'],1,1,1.0
+['documents'],1,1,1.0
+['query'],1,1,1.0
+['query terms'],1,1,1.0
+['search engines'],1,1,1.0
+['query suggestions'],1,1,1.0
+['expanded queries'],1,1,1.0
+['controlled vocabulary'],1,1,1.0
+['manual thesaurus'],1,1,0.0
+['automatically derived thesaurus'],1,1,0.0
+['collection of documents'],1,0,1.0
+['manual query reformulations'],0,0,0.0
+['query volume'],0,0,0.0
+['web search'],1,1,1.0
+['thesaurus-based query expansion'],1,1,1.0
+['automatic thesaurus generation'],1,1,1.0
+['word cooccurrence'],1,1,1.0
+['grammatical dependencies'],0,0,0.0
+['grammatical relations'],0,0,0.0
+['co-occurrence thesaurus'],1,1,1.0
+['term-term similarities'],1,1,1.0
+['term-document matrix'],1,1,1.0
+['length-normalized rows'],0,0,0.0
+['dimensionality reduction'],1,1,1.0
+['latent semantic indexing'],1,1,1.0
+['thesaurus terms'],0,0,0.0
+['term ambiguity'],1,1,1.0
+['false positives'],1,1,1.0
+['automatic thesaurus'],0,0,0.0
+['recall'],1,1,1.0
+['precision'],1,1,1.0
+['ambiguous terms'],0,0,0.0
+['pseudo relevance feedback'],1,1,1.0
+['vocabulary tools'],0,0,0.0
+['stop lists'],1,1,1.0
+['stemmed'],0,0,0.0
+['phrase'],0,0,0.0
+['search terms'],0,0,0.0
+['query words'],0,0,0.0
+['alternative query suggestions'],0,0,0.0
+['yahoo! web search engine'],0,0,0.0
+['global analysis'],0,0,1.0
+['term weighting'],1,1,1.0
+['library subject indexes'],1,1,1.0
+['medline query expansion'],0,0,
+['interactive query expansion'],1,1,1.0
+['automatic query expansion'],1,1,1.0
+['word co-occurrence statistics'],1,1,1.0
+['query log mining'],1,1,1.0
+['global analysis techniques'],0,1,1.0
+['result set'],0,0,0.0
+['user input'],0,0,0.0
+['text statistics'],0,0,0.0
+['grammatical analysis'],0,1,0.0
+['weighted count'],0,0,0.0
+['length-normalized'],0,0,0.0
+['false negatives'],1,1,1.0
+['dictionaries'],1,1,1.0
+['general thesauri'],0,0,0.0
+['domain-particular vocabularies'],1,1,1.0
+['global methods'],0,0,1.0
+['search process'],0,0,1.0
+['web search engine'],1,1,1.0
+['library of congress subject headings'],1,0,1.0
+['dewey decimal system'],1,0,1.0
+['unified medical language system'],1,0,1.0
+['local analysis'],0,0,1.0
+['thesaurus'],0,0,0.0
+['domain-specific thesaurus'],0,0,0.0
+['thesauri'],0,0,0.0

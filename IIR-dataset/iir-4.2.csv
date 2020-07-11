@@ -1,0 +1,57 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['blocked sort-based indexing'],1,1,1
+['nonpositional index'],1,1,1
+['dominant key'],1,1,1
+"['docid', 'docids']",1,1,1
+['secondary key'],1,1,1
+"['term', 'terms']",1,1,1
+"['postings list', 'postings lists']",1,1,1
+"['document', 'documents']",1,1,1
+"['collections', 'collection']",1,1,1
+['memory'],1,1,1
+['index construction'],1,1,1
+"['termid', 'termids']",1,1,1
+['vocabulary'],1,1,1
+['inverted index'],1,1,1
+"['index construction algorithms', 'index construction algorithm']",1,1,1
+['reuters-rcv1'],1,1,1
+"['tokens', 'token']",1,1,1
+['postings file'],1,1,1
+['external sorting algorithm'],1,1,1
+['random disk seeks'],1,1,1
+['blocked sort-based indexing algorithm'],1,1,1
+['bsbi'],1,1,1
+['index'],1,1,1
+['in-memory sort'],1,1,0
+['posting'],1,1,1
+['data structure'],1,1,1
+['merge'],1,1,1
+['document frequency'],1,1,1
+"['string', 'strings']",1,1,1
+['secondary storage'],1,1,1
+['unique serial number'],0,0,0
+['a two-pass approach'],0,0,0
+['single pass'],0,0,0
+['multipass algorithms'],1,1,1
+['reuters-rcv1 collection'],1,1,1
+['compression techniques'],1,1,1
+['inversion'],1,1,1
+['priority queue'],1,1,1
+['sorting'],1,1,1
+['term-docid pairs'],1,1,1
+['mapping'],0,0,1
+['disk space'],1,1,1
+['gb'],1,1,1
+['multimedia information'],0,0,1
+['bytes'],1,1,1
+['main memory'],1,1,1
+['disk'],1,0,1
+['algorithm'],0,1,1
+['sorting-sequential disk reads'],1,0,1
+"['block', 'blocks']",1,1,1
+['fast in-memory sort'],0,0,1
+['merged index'],1,0,1
+['block files'],1,1,1
+['read buffers'],1,1,1
+['write buffer'],1,1,1
+['time complexity'],1,1,1

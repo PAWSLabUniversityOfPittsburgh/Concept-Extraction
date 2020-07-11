@@ -1,0 +1,72 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['vector space model'],1.0,1.0,1
+['xml retrieval'],1.0,1.0,1
+"['node', 'nodes']",1.0,1.0,1
+['leaf'],1.0,1.0,1
+['vector space'],1.0,1.0,1
+"['lexicalized subtrees', 'lexicalized subtree']",1.0,1.0,1
+"['documents', 'document']",1.0,1.0,1
+['documents'],1.0,1.0,1
+['document'],1.0,1.0,1
+['subtrees'],1.0,1.0,1
+"['vocabulary term', 'vocabulary terms']",1.0,1.0,1
+['leaf node'],1.0,1.0,1
+"['queries', 'query']",1.0,1.0,1
+['matches'],0.0,0.0,0
+['dimensionality of the space'],1.0,0.0,0
+['accuracy'],1.0,0.0,0
+['vector space retrieval system'],1.0,1.0,1
+['collection'],1.0,1.0,1
+['paths'],1.0,1.0,1
+"['xml-context/term pairs', 'xml-context/term pair']",1.0,1.0,1
+"['structural term', 'structural terms']",1.0,1.0,1
+['extended queries'],1.0,1.0,1
+['context resemblance'],1.0,1.0,1
+['query path'],1.0,1.0,1
+['document path'],1.0,1.0,1
+['simnomerge'],0.0,0.0,0
+['vocabulary of non-structural terms'],1.0,0.0,0
+"['xml contexts', 'xml context']",1.0,1.0,1
+"['weights', 'weight', 'weightings']",1.0,1.0,1
+['weightings'],1.0,1.0,1
+['inverse document frequency'],1.0,1.0,1
+['cosine measure'],1.0,1.0,1
+['query length normalization'],1.0,1.0,1
+['normalizer'],1.0,1.0,1
+['query-document similarities'],1.0,1.0,1
+['highest ranking document'],0.0,0.0,0
+['sparse term statistics'],1.0,1.0,1
+['matching function'],1.0,1.0,1
+['simmerge'],0.0,0.0,0
+['effectiveness of xml retrieval'],,0.0,0
+['unstructured retrieval'],1.0,1.0,1
+['xml tree'],1.0,1.0,1
+['lexicalized subtrees of documents'],1.0,1.0,0
+['vectors'],0.0,0.0,0
+['query results'],0.0,0.0,0
+['single vocabulary term'],0.0,0.0,0
+['pseudo-xpath notation'],1.0,1.0,1
+['schema'],0.0,,1
+['query structure'],1.0,1.0,1
+['non-structural terms'],1.0,1.0,1
+['vocabulary'],1.0,1.0,1
+['document length'],0.0,0.0,0
+['query length'],0.0,0.0,0
+['query-document similarity function'],1.0,1.0,1
+['document frequency'],1.0,1.0,1
+['non-zero context resemblance'],0.0,0.0,0
+['query structural term'],1.0,1.0,1
+['query term'],1.0,1.0,1
+['context resemblance function'],1.0,1.0,1
+['text node'],0.0,0.0,1
+['leaves'],0.0,0.0,1
+['lexicalized sbutree'],0.0,0.0,0
+"['xml-context pairs', 'xml-context pair']",1.0,1.0,1
+['intervening nodes'],0.0,0.0,1
+['parent-child node pair'],1.0,1.0,1
+['array normalizer'],1.0,1.0,1
+"['postings lists', 'postings list']",1.0,1.0,1
+['similarity function'],1.0,1.0,1
+['robustness'],0.0,0.0,1
+['structural queries'],1.0,1.0,1
+['effectiveness'],0.0,0.0,0

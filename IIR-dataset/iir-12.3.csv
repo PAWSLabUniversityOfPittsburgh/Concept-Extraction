@@ -1,0 +1,43 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['language modeling'],1,1,1
+['ir'],1,1,1
+['language modeling approach'],1,1,1
+['text retrieval'],1,1,1
+['queries'],1,1,1
+"['documents', 'document']",1,1,1
+['probabilistic language modeling'],1,1,1
+['probabilistic approaches'],1,1,1
+['bim'],1,1,1
+"['lm approach', 'lm approaches']",1,1,1
+"['information needs', 'information need']",1,1,1
+['xml retrieval'],1,1,1
+['ir models'],1,1,1
+"['unigram models', 'unigram model']",1,1,1
+['relevance'],1,1,1
+['tf-idf models'],1,1,1
+['term frequency'],1,1,1
+['document length normalization'],1,1,1
+['terms'],1,1,1
+"['collections', 'collection']",1,1,1
+['tf-idf'],1,1,1
+['bm25 weights'],1,1,1
+['vector space retrieval system'],1,1,1
+['relevance feedback'],1,1,1
+['boolean retrieval operators'],1,1,1
+['language processing'],1,1,1
+['document model'],1,1,1
+['speech processing'],1,1,1
+['unigram'],0,0,0
+['phrase or passage matching'],0,0,0
+['query language'],1,1,1
+['document language'],0,0,0
+['document generation probability'],1,1,1
+['collection generation probability'],1,1,1
+['document length'],0,0,0
+['speech and language processing'],1,1,1
+['modeling relevance'],0,0,0
+['language mismatch'],0,0,0
+['idf'],1,1,1
+['ranking of documents'],1,1,1
+['mathematical models'],1,1,1
+['natural language processing'],1,1,1

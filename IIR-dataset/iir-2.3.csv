@@ -1,0 +1,28 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['postings list intersection'],1,1,1
+['skip pointers'],1,1,1
+"['postings lists', 'postings list']",1,1,1
+"['skip list', 'skip lists']",1,1,1
+['query'],1,1,1
+['query terms'],1,1,1
+['search engine'],1,1,1
+['term'],1,1,1
+['vocabulary'],1,1,1
+['merge'],0,0,0
+['results list'],0,0,0
+['skip list pointer'],1,1,1
+['skip span'],1,1,1
+['index'],1,1,1
+['index construction'],1,1,1
+['index size'],0,0,0
+['postings list data structures'],1,1,1
+['recall'],1,1,1
+['postings entries'],0,0,0
+['intersection'],0,0,0
+['augmenting postings lists'],0,0,0
+['hasskip'],0,0,0
+['skips'],0,0,0
+['heuristic'],0,0,1
+['inverted index'],1,1,1
+['encoding'],1,1,1
+['disk postings list'],1,1,1

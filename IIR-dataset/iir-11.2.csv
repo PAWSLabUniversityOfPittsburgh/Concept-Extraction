@@ -1,0 +1,36 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['probability ranking principle'],1,1,1
+['collection of documents'],1,1,1
+['query'],1,1,1
+['ordered list of documents'],1,1,1
+['binary notion of relevance'],1,1,1
+"['document', 'documents']",1,1,1
+['collection'],1,1,1
+['random variable'],1,1,1
+['probabilistic model'],1,1,1
+['probability of relevance'],1,1,1
+['information need'],1,1,1
+['nonrelevant document'],1,1,1
+['relevant document'],1,1,1
+['1/0 loss'],1,1,1
+['bayes risk'],1,1,1
+['prp'],1,1,1
+['false positives'],1,1,1
+['false negatives'],1,1,1
+['ranked retrieval'],1,1,1
+['ordered list'],1,1,1
+['reference retrieval system'],1,1,1
+['accuracy'],1,1,1
+['bayes optimal decision rule'],1,1,1
+['1/0 loss case'],0,0,0
+['relevance'],1,1,1
+['effectiveness'],0,0,1
+['weight actions'],0,0,0
+['top k documents'],0,1,1
+['ir'],1,1,1
+['costs'],0,0,0
+['evaluation'],0,0,1
+['loss models'],1,1,1
+['utility models'],1,1,1
+['loss'],0,0,0
+['utility'],0,0,0

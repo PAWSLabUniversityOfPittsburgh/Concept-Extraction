@@ -1,0 +1,39 @@
+Concept,Mengdi,Nidhi,Mingyan,Mengdi (after),Nidhi (after),Mingyan (after),Notes
+['inverted index'],1,1,1,1,1,1,
+"['index', 'indexing']",1,1,1,1,1,1,
+['tokens'],1,1,1,1,1,1,
+['normalized tokens'],1,1,1,1,1,1,
+['document identifier'],1,0,1,1,1,1,highlighted in the book
+['sorting'],1,1,0,1,1,1,
+"['document', 'documents']",1,1,1,1,1,1,
+['dictionary'],1,1,1,1,1,1,
+"['postings', 'posting']",1,1,1,1,1,1,
+"['term', 'terms']",1,1,1,1,1,1,
+['document frequency'],1,1,1,1,1,1,
+['boolean search engine'],1,0,1,1,1,1,
+['query'],1,0,1,1,1,1,
+['ranked retrieval models'],1,0,1,1,1,1,
+['data structure'],1,0,0,1,1,1,cs domain
+['array'],1,0,0,0,0,1,
+['text'],0,1,1,0,,0,
+['linguistic preprocessing'],0,1,0,0,0,0,cs domain
+['normalize'],0,1,0,0,0,0,verb
+['processing'],0,1,0,0,0,0,
+['words'],0,1,0,0,0,0,
+['document collection'],0,1,1,1,1,1,
+['docid'],0,1,1,1,1,1,
+['index construction'],0,1,1,1,1,1,
+['ad hoc text search'],0,1,1,1,1,1,
+['information retrieval'],0,0,1,1,1,1,
+['inverted file'],0,0,1,1,1,1,do not miss terms in the footnote
+['index compression'],0,0,1,1,1,1,do not miss terms in the footnote
+['postings list'],0,0,1,1,1,1,highlighted
+['indexing terms'],0,0,1,1,1,1,
+['sort-based indexing'],0,0,1,1,1,1,
+['efficiency'],0,0,1,1,1,1,same as effectivenss?
+['singly linked lists'],0,0,1,1,1,1,
+['skip lists'],0,0,1,1,1,1,
+['explicit pointers'],0,0,1,1,1,1,
+"['pointer', 'pointers']",0,0,1,1,1,1,
+['term-document incidence matrix'],0,0,1,1,1,1,
+['boolean retrieval'],0,0,1,1,1,1,

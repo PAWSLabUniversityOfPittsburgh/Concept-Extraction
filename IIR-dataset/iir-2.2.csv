@@ -1,0 +1,110 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['vocabulary'],1,1,1
+"['terms', 'term']",1,1,1
+"['tokenization', 'tokens', 'tokenizer', 'token']",1,1,1
+['type'],1,1,1
+"['ir systems', 'ir system']",1,1,1
+"['document', 'documents']",1,1,1
+['normalization processes'],1,1,1
+"['query', 'queries']",1,1,1
+['language identification'],1,1,1
+['database'],1,1,1
+"['hyphenation', 'hyphen', 'hyphens']",1,1,1
+['document metadata'],1,0,1
+"['phrase queries', 'phrase query']",1,1,1
+['boolean retrieval systems'],1,1,1
+['retrieval systems'],1,1,1
+['compounds'],1,1,1
+['compound-splitter'],1,1,1
+['word segmentation'],1,1,1
+['hidden markov models'],1,1,1
+['conditional random fields'],1,1,1
+['segmentations'],1,1,1
+['word-based indexing'],1,1,1
+['stop words'],1,1,1
+['collection frequency'],1,1,1
+"['stop list', 'stop lists']",1,1,1
+['document rankings'],1,1,1
+"['postings lists', 'postings list']",1,1,1
+"['normalization', 'normalizations']",1,1,1
+['token normalization'],1,1,1
+"['equivalence classes', 'equivalence class', 'equivalence classing']",1,1,1
+['query expansion'],1,1,1
+['capitalization'],0,0,0
+['case-folding'],1,1,1
+['truecasing'],1,1,1
+['standardization'],0,0,0
+"['document collections', 'document collection']",1,1,1
+['language identification classifier'],1,1,1
+['stemming'],1,1,1
+"['lemmatization', 'lemmatizer']",1,1,1
+['lemma'],1,1,1
+['porterâ\x80\x99s algorithm'],1,1,1
+['lovins stemmer'],1,1,1
+['recall'],1,1,1
+['precision'],1,1,1
+['words'],0,0,0
+['type/token distinction'],1,1,1
+['token distinction'],1,1,1
+['ir'],1,1,1
+['dictionary'],1,1,1
+"['index', 'indexing']",1,1,1
+['semantic identifiers'],1,1,1
+['tokenization phase'],1,1,1
+['boolean'],1,1,1
+"['boolean query', 'boolean queries']",1,1,1
+['preprocessing'],0,0,0
+['free text queries'],1,1,1
+['linguistic processing'],1,1,1
+['character k-grams'],1,1,1
+['postings'],1,1,1
+"['phrase search', 'phrase searches']",1,1,1
+['query processing time'],0,0,0
+['text'],0,0,0
+['unnormalized tokens'],1,1,1
+['accent'],0,0,0
+['diacritics'],0,0,0
+['truecasing.'],0,0,0
+['soundex algorithm'],1,1,1
+['measure of a word'],0,0,0
+['one-pass lovins stemmer'],1,1,1
+['paice/husk stemmer'],1,1,1
+['natural language processing'],1,1,1
+['morphological analysis'],1,1,1
+['sample text'],0,0,0
+['analysis'],0,0,0
+['features'],1,1,0
+['expression'],0,0,0
+['compound splitting'],0,0,0
+['document unit'],1,1,1
+['index terms'],1,1,1
+['identifiers'],0,0,0
+['classifiers'],1,1,1
+['classification problem'],1,1,1
+['heuristic rules'],0,0,1
+['search'],1,1,1
+['phrase index'],1,1,1
+['boolean retrieval ystems'],0,0,0
+['indexing retrieval systems'],1,1,1
+['compound-splitter module'],1,1,1
+['prior linguistic processing'],0,0,0
+"['heuristics', 'heuristic']",0,0,1
+"['machine learning sequence models', 'machine learning sequence model']",1,1,1
+['k-grams'],0,0,0
+['writing system'],0,0,0
+['keyword searches'],1,1,1
+"['web search engines', 'web search engine']",1,1,1
+['compression techniques'],1,1,1
+['impact-sorted indexes'],1,1,1
+['token list'],1,1,1
+['query expansion list'],1,1,1
+['query term'],1,1,1
+['query expansion dictionary'],1,1,1
+['non-ascii text'],1,1,1
+['retrieval'],1,1,1
+['phonetic equivalents'],1,1,1
+['algorithm'],0,0,1
+['poter stemmer'],0,0,0
+"['stemmers', 'stemmer']",1,1,1
+['recall precision'],0,0,0
+['linguistic morphology'],1,1,1

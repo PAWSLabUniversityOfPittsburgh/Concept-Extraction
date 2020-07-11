@@ -1,0 +1,47 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['vector space classification'],1,1,1
+['document representation'],1,1,1
+['naive bayes'],1,1,1
+"['terms', 'term']",1,1,1
+['binary vector'],1,1,1
+['text classification'],1,1,1
+['vector space model'],1,1,1
+['tf-idf weight'],1,1,1
+['document space'],1,1,1
+['classification function'],1,1,1
+['classification methods'],1,1,1
+['real-valued vectors'],1,1,1
+['classification'],1,1,1
+['contiguity hypothesis'],1,1,1
+"['documents', 'document']",1,1,1
+['documents'],1,1,1
+['document'],1,1,1
+['classification tasks'],1,1,1
+['weighted representations'],1,1,1
+['length-normalized tf-idf representations'],1,1,1
+['knn'],1,1,1
+['vector space'],1,1,1
+['rocchio classification'],1,1,1
+['k nearest neighbor classification'],1,1,1
+['test document'],1,1,1
+['training set'],1,1,1
+['text classifiers'],1,1,1
+['linear classifiers'],1,1,1
+['linear decision hyperplanes'],1,1,1
+['bias-variance tradeoff'],1,1,1
+['nonlinear models'],1,1,1
+['linear models'],1,1,1
+['training data'],1,1,1
+['two-class classifiers'],1,1,1
+['one-of tasks'],1,1,1
+['any-of tasks'],1,1,1
+['any-of problems'],1,1,1
+['one-of problems'],1,1,1
+['stop list'],1,1,1
+['centroids'],1,1,1
+['prototypes'],1,1,1
+['class'],1,1,1
+['weighting'],1,0,1
+['rocchio'],1,1,1
+['knn classification'],1,1,1
+['k nearest neighbors'],1,1,1

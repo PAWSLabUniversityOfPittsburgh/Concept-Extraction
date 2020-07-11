@@ -1,0 +1,72 @@
+Concept,Mengdi,Nidhi,Mingyan,Mengdi (after),Nidhi (after),Mingyan (after),Notes
+['evaluation of xml retrieval'],1,0,0,1,0,0,of format
+['inex'],1,1,1,1,1,1,
+['initiative for the evaluation of xml retrieval'],1,0,0,1,1,0,the format is too complex
+['xml retrieval'],1,1,1,1,1,1,
+"['collections', 'collection']",1,1,1,1,1,1,
+"['queries', 'query']",1,1,1,1,1,1,
+['inex 2002 collection'],1,1,1,1,1,1,
+['co topics'],1,1,1,1,1,1,
+['content-and-structure topics'],1,1,1,1,1,1,
+"['cas topics', 'cas topic']",1,1,1,1,1,1,
+['structural constraints'],1,1,1,1,1,1,
+['relevance assessments'],1,1,1,1,1,1,
+['unstructured retrieval'],1,1,1,1,1,1,
+['component coverage'],1,1,1,1,1,1,
+['topical relevance'],1,1,1,1,1,1,
+['relevance-coverage combinations'],1,1,1,1,1,1,
+['binary relevance judgments'],1,1,1,1,1,1,
+['unstructured information retrieval'],1,1,1,1,1,1,
+['precision'],1,1,1,1,1,1,
+['recall'],1,1,1,1,1,1,
+['f'],1,1,1,1,1,1,with context?
+['binary relevance assessments'],1,1,1,1,1,1,
+['relevance'],1,1,1,1,1,1,
+['non-redundant results lists'],1,0,0,0,0,0,general
+['simmerge'],1,0,0,0,0,0,auther named function
+['precision at k'],1,1,1,1,1,1,
+['highly relevant elements'],1,0,0,0,0,0,highly seems to be general
+['unstructured bags of words'],1,1,1,1,1,1,
+"['documents', 'document']",1,1,1,1,1,1,
+['structured retrieval'],1,1,1,1,1,1,
+['precision-oriented tasks'],1,1,1,1,1,1,
+['inex program'],0,1,0,0,1,0,I think this is not an important word people need to know
+['relevance judgments'],1,1,1,1,1,1,
+['collection statistics'],1,1,1,1,1,1,
+['test collection'],1,1,1,1,1,1,
+['structured documents'],1,1,1,1,1,1,
+['keyword queries'],1,1,1,1,1,1,
+['keywords'],0,1,0,0,0,0,too general
+['cas queries'],1,1,1,1,1,1,
+['topical relevance dimension'],0,1,0,1,1,0,dimension seems to be general
+['evaluation scheme'],1,1,1,1,1,1,
+['marginal relevance'],0,1,1,1,1,1,
+['vector space system'],1,1,1,1,1,1,
+['keyword matching'],0,1,0,0,0,0,general
+['xml retrieval effectiveness'],0,1,1,1,1,1,
+['language-model-based system'],0,1,1,1,1,1,
+['full-structure model'],0,1,1,1,1,1,
+['relevane judgments'],1,1,1,1,1,0,typo
+['information needs'],1,1,1,1,1,1,
+['structural criteria'],0,0,1,0,0,1,same as structural constraints. I think it appears too many times and seems to be important and specail
+['content criteria'],0,0,1,0,0,1,it is an attribute of CAS query so I think it's specail
+['tree'],0,1,1,1,1,1,
+['information sought'],0,0,1,0,0,1,I google it and find some paper wright about this and I think it's a domain-specific term
+['coverage'],0,0,1,0,0,1,It's the same as component coverage
+['nested elements'],0,0,1,0,0,1,I think it's specail because it seems only can be used in CS domain
+['algorithms'],0,1,1,1,1,1,
+['inex 2002'],0,0,1,0,0,1,Well I don't know how to handle this kind of things
+['effectiveness'],0,0,1,0,0,0,Peter said no
+['unstructured retrieval effectiveness'],0,1,1,1,1,1,
+['binary relevance'],0,1,1,1,1,1,I'm not sure
+['binary evaluation'],0,0,1,1,1,1,I'm not sure
+['graded evaluation'],0,0,1,1,1,0,
+['inex 2003'],0,0,1,0,0,1,
+['inex 2004'],0,0,1,0,0,1,
+['evaluation metric'],0,0,1,0,0,0,
+['discretiztion function'],0,0,1,0,0,1,I think it's a hard concept in math domain and it's important
+['elements'],0,0,1,0,0,1,special for xml
+['content-only system'],0,0,1,0,0,0,
+['structural filter'],0,0,1,0,0,1,I think it's a specific kind filter
+['relevant documents'],0,1,1,1,1,1,it is
+['precision-oriented tasks structured retrieval'],0,0,1,0,0,0,I didn't read the sentence carefully

@@ -1,0 +1,35 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['information retrieval'],1.0,1.0,1.0
+"['documents', 'document']",1.0,1.0,1.0
+"['collections', 'collection']",1.0,1.0,1.0
+['database-style searching'],1.0,1.0,1.0
+['unstructured data'],1.0,1.0,1.0
+['structured data'],1.0,1.0,1.0
+['relational database'],1.0,1.0,1.0
+['latent linguistic structure'],1.0,1.0,1.0
+['clustering'],1.0,1.0,1.0
+['web search'],1.0,1.0,1.0
+['indexing'],1.0,1.0,1.0
+['personal information retrieval'],1.0,1.0,1.0
+['text classification'],1.0,1.0,1.0
+['term-document matrix'],1.0,1.0,1.0
+['central inverted index data structure'],0.0,0.0,0.0
+['boolean retrieval model'],1.0,1.0,1.0
+['boolean queries'],1.0,1.0,1.0
+['data'],0.0,0.0,0.0
+['human language'],0.0,0.0,0.0
+['classification'],1.0,1.0,1.0
+['information retrieval systems'],1.0,1.0,1.0
+['domain specific search'],0.0,1.0,0.0
+['centralized file systems'],1.0,1.0,1.0
+['inverted index'],1.0,1.0,1.0
+['ir'],,,
+['text data'],0.0,0.0,0.0
+['search'],1.0,1.0,1.0
+['retrieved documents'],1.0,0.0,1.0
+['rankings'],1.0,1.0,1.0
+['spam'],0.0,0.0,0.0
+['terms'],1.0,1.0,1.0
+['personal search'],1.0,1.0,1.0
+['structure'],0.0,0.0,0.0
+['semistructured search'],1.0,1.0,1.0

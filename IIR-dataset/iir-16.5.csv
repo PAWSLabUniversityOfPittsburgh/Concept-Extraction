@@ -1,0 +1,42 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['model-based clustering'],1,1,1
+['k-means'],1,1,1
+['em algorithm'],1,1,1
+"['centroids', 'centroid']",1,1,1
+['noise'],1,1,1
+['rss'],1,1,1
+['maximum likelihood criterion'],1,1,1
+['language modeling'],1,1,1
+['text classification'],1,1,1
+['document-cluster pair'],1,1,1
+['soft clustering'],1,1,1
+['hierarchical algorithms'],1,1,1
+['expectation maximization algorithm'],1,1,1
+['em clustering'],1,1,1
+['multivariate bernoulli distributions'],1,1,1
+"['terms', 'term']",1,1,1
+"['document', 'documents']",1,1,1
+['multivariate bernoulli'],1,1,1
+['em'],1,1,1
+['expectation step'],1,1,1
+['maximization step'],1,1,1
+['classification'],1,1,1
+['bernoulli naive bayes classification'],1,1,1
+['hard k-means clustering'],1,1,1
+"['clusters', 'clustering', 'clusterings', 'cluster']",1,1,1
+['clustering model'],1,1,1
+['bernoulli'],1,1,1
+['document clustering'],1,1,1
+['algorithm'],1,1,1
+['soft assignment'],1,1,1
+['local optima'],1,1,1
+['maximum likelihood'],1,1,1
+['log-likelihood'],1,1,1
+['objective function'],1,1,1
+['hard clustering'],1,1,1
+['gaussian with non-spherical variance'],1,1,1
+['expectation-maximization algorithm'],1,1,1
+['probabilistic modeling'],1,1,1
+['maximum likelihood estimates'],1,1,1
+['normalization'],1,1,1
+['probability distribution'],1,1,1

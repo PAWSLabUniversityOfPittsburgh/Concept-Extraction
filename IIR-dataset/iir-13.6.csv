@@ -1,0 +1,54 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['evaluation of text classification'],1,1,1
+['reuters-21578 collection'],1,1,1
+['text classification evaluation'],1,1,1
+['reuters-rcv1 collection'],1,1,1
+['classes'],1,1,1
+['topic categories'],1,1,1
+"['document', 'documents']",1,1,1
+"['two-class classifiers', 'two-class classifier']",1,1,1
+['modapte split'],1,1,1
+['training documents'],1,1,1
+['test documents'],1,1,1
+['text classification'],1,1,1
+['test data'],1,1,1
+['accuracy'],1,1,1
+['recall'],1,1,1
+['precision'],1,1,1
+['f1'],1,1,1
+['performance'],1,1,1
+['computational efficiency of classification'],1,1,1
+['ir system'],1,1,1
+['macroaveraging'],1,1,1
+['microaveraging'],1,1,1
+['naive bayes'],1,1,1
+['nb'],1,1,1
+['linear svms'],1,1,1
+['svm'],1,1,1
+['knn'],1,1,1
+['decision trees'],1,1,1
+['uniform data'],0,0,0
+['training sample'],1,1,1
+['classifier'],1,1,1
+['machine learning algorithm'],1,1,1
+['training set'],1,1,1
+['ad hoc retrieval'],1,1,1
+['development set'],1,1,1
+['held-out data'],1,1,1
+['test set'],1,1,1
+['effectiveness'],1,1,1
+['performance efficiency'],1,1,1
+['classification'],1,1,1
+['true negatives'],1,1,1
+['true positives'],1,1,1
+['collection'],1,1,1
+['classic reuters-21578 collection'],1,1,1
+['any-of problem'],1,1,1
+['classification error'],1,1,1
+['classification accuracy'],1,1,1
+['classification decisions'],0,1,1
+['document classification decision'],0,0,1
+['one-of classification'],1,1,1
+['rocchio'],1,1,1
+['evaluation'],1,1,1
+['document collection'],1,1,1

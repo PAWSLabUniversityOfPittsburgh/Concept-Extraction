@@ -1,0 +1,40 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['boolean retrieval model'],1.0,,1.0
+['ranked retrieval models'],1.0,1.0,1.0
+"['free text queries', 'free text querying']",1.0,1.0,1.0
+"['documents', 'document']",1.0,1.0,1.0
+"['query', 'querying', 'queries']",1.0,1.0,1.0
+"['boolean operations', 'boolean operators']",1.0,1.0,1.0
+['boolean expression'],1.0,1.0,1.0
+"['terms', 'term']",1.0,1.0,1.0
+['proximity operator'],1.0,1.0,1.0
+"['information need', 'information needs']",1.0,1.0,1.0
+['phrase search'],1.0,1.0,1.0
+"['boolean queries', 'boolean query']",1.0,1.0,1.0
+['boolean search'],1.0,1.0,1.0
+['inverted index'],1.0,1.0,1.0
+['dictionary'],1.0,1.0,1.0
+['postings lists'],1.0,1.0,1.0
+['term frequency'],1.0,1.0,1.0
+['unstructured search'],1.0,1.0,1.0
+['web search engines'],1.0,0.0,0.0
+['boolean model'],1.0,1.0,1.0
+['models'],,,
+['vector space model'],1.0,1.0,1.0
+['boolean retrieval models'],1.0,1.0,1.0
+['query optimization'],1.0,1.0,1.0
+['ad hoc searching'],1.0,1.0,1.0
+['extented boolean model'],0.0,0.0,0.0
+['ranked retrieval'],1.0,1.0,1.0
+['text'],0.0,0.0,0.0
+['web search'],0.0,0.0,0.0
+['wildcard query'],1.0,1.0,1.0
+['boolean query models'],1.0,1.0,1.0
+['recall'],1.0,1.0,1.0
+['connectors'],0.0,0.0,1.0
+['precision'],1.0,1.0,1.0
+['query models'],1.0,1.0,1.0
+['index structures'],1.0,1.0,1.0
+['document score'],0.0,0.0,1.0
+['unstructured information'],1.0,1.0,1.0
+['indexing'],1.0,1.0,1.0

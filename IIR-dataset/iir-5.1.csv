@@ -1,0 +1,84 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['index compression'],1,1,1
+['dictionary'],1,1,1
+['inverted index'],1,1,1
+['data structures'],1,1,1
+['compression techniques'],1,1,1
+"['ir systems', 'ir system']",1,1,1
+['search systems'],1,1,1
+"['index', 'indexing']",1,1,1
+"['postings list', 'postings lists']",1,1,1
+['query term'],1,1,1
+['one-term query'],1,1,1
+['disk seek'],1,1,1
+['query'],1,1,1
+['memory'],1,1,1
+['disk'],1,0,1
+['decompression algorithms'],1,1,1
+['compressed chunk'],0,0,0
+"['compressed postings list', 'compressed postings lists']",1,1,1
+['retrieval system'],1,1,1
+['uncompressed postings lists'],1,1,1
+['cache utilization'],1,0,0
+['disk-to-memory transfer'],1,1,1
+['decompression speeds'],0,0,0
+"['posting', 'postings']",1,1,1
+['docid'],1,1,1
+['termid'],1,1,1
+"['terms', 'term']",1,1,1
+"['collections', 'collection']",1,1,1
+['byte encoding'],1,1,1
+['information retrieval'],1,1,1
+['reuters-rcv1'],1,1,1
+['nonpositional postings'],1,1,1
+['positional index'],1,1,1
+['rule of 30'],1,1,1
+['tokens'],1,1,1
+['lossy compression'],1,1,1
+['case folding'],1,1,1
+['stemming'],1,1,1
+['stop word elimination'],1,1,1
+['vector space model'],1,1,1
+['dimensionality reduction techniques'],1,1,1
+['latent semantic indexing'],1,1,1
+['short queries'],1,1,1
+['vocabulary'],1,1,1
+['dictionary compression'],1,1,1
+['information retrieval system'],1,1,1
+['ir'],1,1,1
+['disk space'],0,1,1
+['compression ratios'],1,1,1
+"['caching', 'cache']",1,1,1
+['decompression methods'],1,1,1
+['blocked storage'],1,1,1
+['postings file'],1,1,1
+['variable byte encoding'],1,1,1
+['γ encoding'] ,1,1,1
+['compressed index'],1,1,1
+['vocabulary size'],0,0,0
+['porter stemmer'],1,1,1
+['web search'],1,1,1
+['documents'],1,1,1
+['oxford english dictionary'],0,0,0
+['collection frequency'],1,1,1
+['power law'],1,1,1
+['logâ\x80\x93log graph'],0,0,0
+['zipf function'],1,1,1
+['central data structures'],0,0,0
+['compression'],0,0,0
+['main memory'],1,1,1
+['chunk'],0,0,1
+['compression algorithms'],1,1,1
+"['frequency', 'frequencies']",0,0,0
+['position information'],0,0,0
+['dictionary-as-a-string method'],1,1,1
+['nonpositional index'],1,1,1
+"['stop words', 'stop word']",1,1,1
+['stop list'],1,1,1
+['bits'],1,1,1
+['lemmatizer'],1,1,1
+['retrieval scenarios'],0,0,0
+['lossy methods'],1,1,1
+"[""heaps' law""]",1,1,1
+['log-log space'],1,1,1
+"[""zipf's law""]",1,1,1

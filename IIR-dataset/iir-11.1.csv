@@ -1,0 +1,22 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['probability theory'],1,1,1
+['random variable'],1,1,1
+['joint probability'],1,1,1
+"['conditional probability', 'conditional probabilities']",1,1,1
+['conditional probability'],1,1,1
+['conditional probabilities'],1,1,1
+['partition rule'],1,1,1
+['chain rule'],1,1,1
+"[""bayes' rule""]",1,1,1
+['prior probability'],1,1,1
+['posterior probability'],1,1,1
+['likelihood'],1,1,1
+['odds'],1,1,1
+['function'],0,0,0
+['probability'],0,1,1
+['joint event'],0,0,0
+['equation'],0,0,0
+['variable'],0,0,1
+['subset'],1,0,1
+"['p(a, b)']",0,0,0
+['p(a|b)'],0,0,0

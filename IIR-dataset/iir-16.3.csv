@@ -1,0 +1,45 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['evaluation of clustering'],1,1,1
+['objective functions'],1,1,1
+['intra-cluster similarity'],1,1,1
+['intercluster similarity'],1,1,1
+['internal criterion'],1,1,1
+"['clusters', 'cluster']",1,1,1
+['clustering'],1,1,1
+['clusters'],1,1,1
+['cluster'],1,1,1
+['clustering algorithms'],1,1,1
+['external criterion'],1,1,1
+['purity'],1,1,1
+['normalized mutual information'],1,1,1
+['rand index'],1,1,1
+['false positive'],1,1,1
+['false negative'],1,1,1
+['f measure'],1,1,1
+['nmi'],1,1,1
+['maximum mutual information'],1,1,1
+['mi'],1,1,1
+['true positive'],1,1,1
+['true negative'],1,1,1
+['ri'],1,1,1
+"['documents', 'document']",1,1,1
+['documents'],1,1,1
+['document'],1,1,1
+['effectiveness'],1,1,1
+['gold standard'],1,1,1
+['external criterion of quality'],1,1,1
+['external criteria of clustering quality'],1,1,1
+['one-document clusters'],1,1,1
+['evaluation benchmark'],1,1,1
+['classes'],1,1,1
+['mutual information'],1,1,1
+['maximum likelihood estimates of the probabilities'],1,1,1
+['class membership'],1,1,1
+['bias'],0,0,0
+['accuracy'],1,1,1
+['tp'],1,1,1
+['fp'],1,1,1
+['fn'],1,1,1
+['tn'],1,1,1
+['recall'],1,1,1
+['information retrieval'],1,1,1

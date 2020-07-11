@@ -1,0 +1,36 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['two-class linear classifiers'],1,1,1
+"['classes', 'class']",1,1,1
+['multivalue classification'],1,1,1
+"['document', 'documents']",1,1,1
+['classification problem'],1,1,1
+['linear classifiers'],1,1,1
+"['classifier', 'classifiers']",1,1,1
+['training set'],1,1,1
+['test document'],1,1,1
+['one-of classification'],1,1,1
+['single-label classification'],1,1,1
+['classification function'],1,1,1
+['knn'],1,1,1
+['(nonlinear) one-of classifier'],1,1,1
+['one-of problems'],1,1,1
+['text classification'],1,1,1
+['classifierâ\x80\x99s effectiveness'],1,1,1
+['two-class linear classifiers'],1,1,1
+['confusion matrix'],1,1,1
+['classification'],1,1,1
+['algorithm'],1,1,1
+['accuracy'],1,1,1
+['any-of classification'],1,1,1
+['multilabel classification'],1,1,1
+['multinomial classification'],1,1,1
+['polytomous classification'],1,1,1
+['multiclass classification'],1,1,1
+['any-of problems'],1,1,1
+['topics'],1,1,1
+['one-of assumption'],1,1,1
+['any-of classifiers'],1,1,1
+['hyperplanes'],1,1,1
+['linear separators'],1,1,1
+['classification decision'],0,0,1
+['confidence'],1,1,1

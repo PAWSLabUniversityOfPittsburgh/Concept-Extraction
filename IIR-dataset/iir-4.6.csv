@@ -1,0 +1,38 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+"['nonpositional indexes', 'nonpositional index']",1,1,1
+['termid'],1,1,1
+"['docid', 'docids']",1,1,1
+"['indexes', 'index']",1,1,1
+['ranked retrieval systems'],1,1,1
+['ranked retrieval'],1,1,1
+['postings'],1,1,1
+['docid-sorted index'],1,1,1
+"['documents', 'document']",1,1,1
+"['postings lists', 'postings list']",1,1,1
+['impact-sorted index'],1,1,1
+['inverted index'],1,1,1
+['security'],1,1,1
+['access control lists'],1,1,1
+"['acls', 'acl']",1,1,1
+['user-document matrix'],1,1,1
+['inverted acl index'],1,1,1
+['query time'],1,1,0
+"['positional index', 'positional indexes']",1,1,1
+['tokens'],1,1,1
+['algorithms'],1,1,1
+['compression'],0,0,0
+['boolean retrieval systems'],0,0,0
+['query processing'],1,1,1
+"['retrieval system', 'retrieval systems']",1,1,1
+['user authorization'],1,1,1
+['information retrieval system'],1,1,1
+['access permissions'],0,1,1
+['incremental indexing'],1,1,1
+['user membership'],0,1,1
+['gaps'],0,0,0
+['query'],1,1,1
+['resulting user-document matrix'],0,0,0
+"[""user's access list""]",1,1,1
+['file system'],1,1,1
+['retrieval'],1,1,1
+['terms'],1,1,1

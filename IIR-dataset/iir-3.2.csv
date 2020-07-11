@@ -1,0 +1,49 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+"['wildcard queries', 'wildcard query']",1,1,1
+"['documents', 'document']",1,1,1
+"['term', 'terms']",1,1,1
+['stemming'],1,1,1
+"['search engine', 'search engines']",1,1,1
+"['trailing wildcard query', 'trailing wildcard queries']",1,1,1
+['search tree'],1,1,1
+['dictionary'],1,1,1
+['reverse b-tree'],1,1,1
+"['leading wildcard queries', 'leading wildcard query']",1,1,1
+"['b-tree', 'b-trees']",1,1,1
+['vocabulary'],1,1,1
+['inverted index'],1,1,1
+['boolean query'],1,1,1
+['vocabulary terms'],1,1,1
+"['permuterm indexes', 'permuterm index']",1,1,1
+['permuterm vocabulary'],1,1,1
+['index'],1,1,1
+['rotated wildcard query'],1,1,1
+['document retrieval'],1,1,1
+"['k-gram indexes', 'k-gram index']",1,1,1
+['postings list'],1,1,1
+"['k-gram', 'k-grams']",1,1,1
+['post-filtering'],1,1,1
+['boolean operators'],1,1,1
+['search interface'],1,1,0
+"['query', 'queries']",1,1,1
+['foreign word'],0,0,0
+['search string'],1,1,1
+['tree'],1,1,1
+['standard inverted index'],0,0,0
+['regular b-tree'],0,0,0
+['superset'],1,1,0
+['rotation'],0,1,0
+['permuterm b-tree'],1,1,1
+['rotations per term'],0,0,0
+['retrieval'],1,1,1
+['post-filtering step'],0,0,0
+['single-term queries'],1,1,0
+['query term'],1,1,1
+['|w| lookups'],0,0,1
+['root-to-leaf path'],1,1,1
+['path'],1,1,1
+['dictionary terms'],1,1,1
+['rotated terms'],0,0,0
+['3-grams'],1,0,1
+['string-matching operation'],1,1,1
+['boolean combinations'],1,1,1

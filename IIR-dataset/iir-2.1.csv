@@ -1,0 +1,55 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+"['postings lists', 'postings list']",1,1,1
+['inverted index'],1,1,1
+"['tokens', 'tokenization', 'token']",1,1,1
+"['term', 'terms']",1,1,1
+"['documents', 'document']",1,1,1
+"['indexing', 'index']",1,1,1
+['linguistic preprocessing'],1,1,1
+['postings list data structure'],1,0,1
+"['proximity queries', 'proximity query']",1,1,1
+"['boolean models', 'boolean model']",1,1,1
+['character sequence decoding'],1,1,1
+['document delineation'],1,1,1
+['unicode utf-8'],1,1,1
+['classification problem'],0,0,0
+['heuristic methods'],1,1,1
+"['encoding', 'encodings']",1,1,1
+['xml documents'],1,1,1
+['document unit'],1,1,1
+['html pages'],1,1,1
+['indexing granularity'],1,1,1
+['precision'],1,1,1
+['recall'],1,1,1
+['xml retrieval'],1,1,1
+['ir system'],1,1,1
+['document collection'],1,1,1
+['vocabulary'],1,1,1
+['inverted index construction'],1,1,1
+['text'],0,1,0
+['phrase query'],1,1,1
+['machine learning classification problem'],1,1,1
+"['query', 'querying']",1,1,1
+['extended postings list data structure'],0,0,0
+['postings data structures'],1,0,1
+['extended boolean models'],0,0,0
+['ascii encoding'],1,1,1
+['byte'],1,1,1
+['multibyte encoding schemes'],1,1,1
+['metadata'],1,1,1
+['binary representation'],1,1,1
+['decoding'],1,1,1
+['character entities'],0,0,0
+['xml files'],1,1,1
+['markup'],1,1,1
+['character encodings'],1,1,1
+['writing systems'],0,0,0
+['digital representation'],1,1,1
+['unix email file'],0,0,0
+['zip file'],0,0,0
+['collection'],1,1,1
+['relevant information'],1,1,1
+['implicit proximity search'],1,1,1
+['index granularity'],1,1,1
+['information needs'],1,1,1
+['usage patterns'],1,1,1

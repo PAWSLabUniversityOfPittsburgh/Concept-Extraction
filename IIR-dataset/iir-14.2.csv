@@ -1,0 +1,46 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['rocchio classification'],1,1,1
+"['decision boundaries', 'decision boundary']",1,1,1
+"['document', 'documents']",1,1,1
+['vector space classification'],1,1,1
+['algorithms'],1,1,1
+['classification accuracy'],1,1,1
+"['centroids', 'centroid']",1,1,1
+['normalized vector'],1,1,1
+['m-dimensional space'],1,1,1
+['normal vector'],1,1,1
+['rocchio algorithm'],1,1,1
+['pseudocode'],1,1,1
+['euclidean distance'],1,1,1
+['cosine similarity'],1,1,1
+['k-means clustering'],1,1,1
+['rocchio relevance feedback'],1,1,1
+['relevant documents'],1,1,1
+['rocchio vector'],1,1,1
+['relevance feedback'],1,1,1
+['rocchio formula'],1,1,1
+['text classification'],1,1,1
+['prototype'],1,1,1
+['multimodal class'],1,1,1
+['two-class classification'],1,1,1
+['training time'],1,1,1
+['naive bayes'],1,1,1
+['knn'],1,1,1
+['vector space classification'],1,1,1
+"['hyperplane', 'hyperplanes']",1,1,1
+['hyperplane'],1,1,1
+['hyperplanes'],1,1,1
+['classification'],1,1,1
+['multimodality'],1,1,1
+['false positives'],1,1,1
+['class'],1,1,1
+['rocchio classification centroid'],1,1,1
+['2-dimensional planes'],1,1,1
+['class regions'],1,1,1
+['classification rule'],0,0,0
+['classification decisions'],0,0,1
+['query'],1,1,1
+['rocchio'],1,1,1
+['two-class classifiers'],1,1,1
+['time complexity'],1,1,1
+['collection'],1,1,1

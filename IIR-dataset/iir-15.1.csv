@@ -1,0 +1,56 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['support vector machines'],1,1,1
+['decision boundary'],1,1,1
+['learning methods'],1,1,1
+['perceptron algorithm'],1,1,1
+['linear separator'],1,1,1
+['naive bayes'],1,1,1
+['svms'],1,1,1
+['decision surface'],1,1,1
+['margin'],1,1,1
+['classifier'],1,1,1
+['decision function'],1,1,1
+"['support vectors', 'support vector']",1,1,1
+['misclassification'],1,1,1
+['document variation'],0,0,0
+['svm classifier'],1,1,1
+['decision hyperplane'],1,1,1
+['weight vector'],1,1,1
+['training data points'],0,0,0
+['functional margin'],1,1,1
+['euclidean distance'],1,1,1
+"['unit vector', 'unit vectors']",1,1,1
+['geometric margin'],1,1,1
+['quadratic function'],1,1,1
+['linear constraints'],1,1,1
+['quadratic optimization'],1,1,1
+['qp'],1,1,1
+['quadratic programming'],1,1,1
+['algorithms'],1,1,1
+['optimization problem'],1,1,1
+['lagrange multiplier'],1,1,1
+['classification function'],1,1,1
+['dual problem'],1,1,1
+['dot product'],1,1,1
+['data set'],1,1,1
+['separating hyperplane'],0,0,0
+['quadratic optimization'],1,1,1
+['margin of the classifier'],1,1,1
+['probability of classification'],1,1,1
+['sigmoid'],1,1,1
+['unit hypersphere'],1,0,1
+['document'],1,1,1
+['svm decision boundary'],1,1,1
+['training data sets'],1,1,1
+['classification safety margin'],1,1,1
+['test data'],1,1,1
+['bias-variance tradeoff'],1,1,1
+['mathematical optimization problems'],1,1,1
+['quadratic programming (qp) libraries'],1,1,1
+['vector space'],1,1,1
+['memory capacity of the model'],1,1,1
+['intercept'],1,0,1
+['hyperplane'],1,1,1
+['training data'],1,1,1
+['quadratic optimization problems'],1,1,1
+['confidence threshold'],1,1,1

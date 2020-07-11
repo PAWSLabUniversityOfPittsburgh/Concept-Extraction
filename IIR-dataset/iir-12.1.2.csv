@@ -1,0 +1,23 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+"['language models', 'language model']",1,1,1
+['chain rule'],1,1,1
+"['unigram language model', 'unigram language models']",1,1,1
+['bigram language models'],1,1,1
+['grammar-based language models'],1,1,1
+['speech  recognition'],1,1,1
+['spelling correction'],1,1,1
+['machine translation'],1,1,1
+['ir'],1,1,1
+['unigram models'],1,1,1
+['ir language models'],1,1,1
+['document'],1,1,1
+['training data'],1,1,1
+['bias-variance tradeoff'],1,1,1
+['higher-order models'],1,1,1
+"['terms', 'term']",1,1,1
+['probabilistic context-free grammars'],1,1,1
+['data'],0,0,0
+['data sparseness'],1,1,1
+['proximity queries'],1,1,1
+['loss'],0,0,0
+['model of van rijsbergen'],1,1,1

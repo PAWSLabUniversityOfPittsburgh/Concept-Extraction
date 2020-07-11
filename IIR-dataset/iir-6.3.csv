@@ -1,0 +1,51 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['document classification'],1,1,1
+['vector space scoring'],1,1,1
+['vector space scores'],1,1,1
+['document collection'],1,1,1
+['tf-idf weighting scheme'],1,1,1
+['vector space'],1,1,1
+"['term', 'terms']",1,1,1
+"['cosine similarity', 'cosine similarities']",1,1,1
+['vector representations'],1,1,0
+"['dot product', 'dot products']",1,1,1
+['inner product'],1,1,1
+"['euclidean lengths', 'euclidean length']",1,1,1
+['length-normalization'],1,1,1
+['collection'],1,1,1
+"['document', 'documents']",1,1,1
+['idf'],1,1,1
+"['queries', 'query']",1,1,1
+"['query terms', 'query term']",1,1,1
+['tf'],1,1,1
+['tf-idf weights'],1,1,1
+['inverted index'],1,1,1
+['free text query'],1,1,1
+"['accumulators', 'accumulator']",1,1,1
+"['postings', 'posting']",1,1,1
+['inverse document frequency'],1,1,1
+['postings lists'],1,1,1
+['document-at-a-time scoring'],1,1,1
+['term-at-a-time scoring'],1,1,1
+['scoring'],1,1,1
+"['information retrieval operation', 'information retrieval operations']",1,1,1
+['euclidian length'],0,1,0
+['unit vector'],1,1,0
+['term-document matrix'],1,1,1
+['vector'],0,1,0
+['query as a vector'],0,0,0
+['bag of words'],1,1,1
+['query vector'],1,1,1
+['term-at-a-time'],0,0,0
+['priority queue'],0,0,0
+['dictionary term'],1,1,1
+"['weighting scheme', 'weighting schemes']",1,1,1
+"['term frequencies', 'term frequency']",1,1,1
+['search engines'],1,1,1
+['vocabulary'],1,1,1
+['algorithm'],0,1,1
+['array'],1,1,1
+['tf-idf'],1,1,1
+['priority queue data structure'],1,1,1
+['heap'],1,1,1
+['concurrent postings traversal'],1,1,1

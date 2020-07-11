@@ -1,0 +1,49 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['information retrieval'],1,1,1
+['document retrieval'],1,1,1
+"['grepping', 'grep']",1,1,1
+['wildcard pattern matching'],1,1,1
+"['collections', 'collection']",1,1,1
+['linearly scanning'],0,0,0
+['index'],1,1,1
+['term-document incidence matrix'],1,1,1
+"['terms', 'term']",1,1,1
+"['query', 'querying']",1,1,1
+['boolean retrieval model'],1,1,1
+"['documents', 'document']",1,1,1
+['retrieval system'],1,1,1
+['corpus'],1,1,1
+['ad hoc retrieval'],1,1,1
+['information need'],1,1,1
+"['relevant', 'relevance']",1,1,1
+['precision'],1,1,1
+['recall'],1,1,1
+['inverted index'],1,1,1
+['inverted file'],1,1,1
+['dictionary'],1,1,1
+['lexicon'],1,1,1
+['vocabulary'],1,1,1
+['pattern matching'],0,1,1
+"['document collections', 'document collection']",1,1,1
+['ranked retrieval'],1,1,1
+['incidence matrix'],1,1,1
+['indexed units'],0,0,0
+['matrix'],0,0,0
+['boolean'],0,0,0
+['model'],0,0,0
+['topic'],0,0,0
+['effectiveness'],1,1,1
+['term-document matrix'],1,1,1
+['sparse matrix'],1,1,1
+"['posting', 'postings']",1,1,1
+['postings list'],1,1,1
+['inverted list'],1,1,1
+['text'],0,0,0
+['regular expressions'],0,0,0
+['matching'],0,0,0
+['binary term-document incidence matrix'],1,1,1
+"['vector', 'vectors']",0,0,0
+['boolean expression'],0,0,0
+['ir'],1,1,1
+['relevant documents'],1,1,1
+['ir system'],1,1,1

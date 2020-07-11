@@ -1,0 +1,29 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['relevance'],1.0,1,1
+"['information needs', 'information need']",1.0,1,1
+"['documents', 'document']",1.0,1,1
+['test document collection'],1.0,1,1
+['query terms'],1.0,1,1
+['relevance assessments'],,1,1
+['cranfield'],1.0,1,1
+['query and document pair'],1.0,1,1
+['pooling'],1.0,1,1
+"['collection', 'collections']",1.0,1,1
+['top k documents'],1.0,1,0
+"['ir systems', 'ir system']",1.0,1,1
+['boolean keyword searches'],1.0,1,1
+['query'],1.0,1,1
+['relevance judgments'],1.0,1,1
+['kappa statistic'],1.0,1,1
+['marginal statistics'],1.0,1,1
+['kappa value'],1.0,1,1
+['trec evaluations'],1.0,1,1
+['ir evaluation'],1.0,1,1
+['judgments of relevance'],1.0,1,0
+['interjudge agreement of relevance'],1.0,1,0
+['medical ir collections'],0.0,0,0
+['binary relevance judgment'],1.0,1,0
+['test information needs'],1.0,1,1
+"['marginal', 'marginals']",1.0,0,1
+['ir collections'],1.0,1,1
+['gold standard'],1.0,1,1

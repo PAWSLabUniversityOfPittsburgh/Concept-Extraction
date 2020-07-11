@@ -1,0 +1,62 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+"['document', 'documents']",1,1,1
+['tf'],1,1,1
+['tf-idf'],1,1,1
+['sublinear tf scaling'],1,1,1
+"['term frequency', 'term frequencies']",1,1,1
+['wf-idf'],1,1,1
+['tf normalization'],0,1,0
+['tf weights'],1,1,1
+"['terms', 'term']",1,1,1
+['terms'],1,1,1
+['term'],1,1,1
+['smoothing'],1,1,1
+['smoothing term'],1,1,1
+['classification'],1,1,1
+['nft'],0,0,0
+"['ntf-idft,d']",0,0,0
+['stop word list'],0,0,0
+"['term weightings', 'term weight', 'term weighting']",1,1,1
+['information retrieval systems'],1,1,1
+['vector space scoring'],1,1,1
+['vector space scoring method'],1,1,1
+['query vector'],1,1,1
+"['document vector', 'document vectors']",1,1,1
+"['document frequency', 'document frequencies']",1,1,1
+"['normalization functions', 'normalization function']",1,1,0
+['log-weighted term frequency'],1,1,1
+['idf'],1,1,1
+['cosine normalization'],1,1,1
+['idf weighting'],1,1,1
+['pivoted normalized document length'],1,1,1
+['euclidean length'],1,1,1
+"['unit vectors', 'unit vector']",1,1,0
+['query terms'],1,1,1
+['document collection'],1,1,1
+"['queries', 'query']",1,1,1
+['collection'],1,1,1
+['probability of relevance'],1,1,1
+['normalized term frequency'],1,1,1
+['stop word'],1,1,1
+['ranking'],1,1,0
+['outlier term'],1,1,1
+['principal weighting schemes'],0,1,0
+['standard weighting scheme'],1,1,0
+['document length normalization'],1,1,1
+['document length'],0,0,0
+['pivot length'],1,1,1
+['wf'],1,1,1
+['maximum tf normalization'],1,1,1
+['query weighting schemes'],1,1,1
+"['weighting schemes', 'weighting scheme']",1,1,1
+['text retrieval system'],1,1,1
+['information needs'],1,1,1
+['verbose documents'],0,0,1
+['search terms'],1,0,1
+['normalized document'],1,1,1
+['boolean judgment'],1,1,1
+['relevance judgments'],1,1,1
+['pivoted document length normalization'],1,1,1
+['pivoted length normalization'],1,1,1
+['linear pivoted normalization'],1,1,1
+['machine learning based scoring approach'],1,1,1

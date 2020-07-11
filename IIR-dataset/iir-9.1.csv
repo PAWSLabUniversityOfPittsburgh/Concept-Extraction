@@ -1,0 +1,96 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['relevance feedback'],1,1,1.0
+['pseudo relevance feedback'],1,1,1.0
+['relevance of documents'],1,0,0.0
+"['query', 'queries']",1,1,1.0
+"['collection', 'collections']",1,1,1.0
+['query refinement'],1,1,1.0
+['information need'],1,1,1.0
+['ir'],1,1,1.0
+['rocchio algorithm'],1,1,1.0
+['query vector'],1,1,1.0
+['relevant documents'],1,1,1.0
+['cosine similarity'],1,1,1.0
+"['nonrelevant documents', 'nonrelevant document']",1,1,1.0
+['vector space model'],1,1,1.0
+['vector space'],1,1,1.0
+['nonrelevant document's vector'],1,1,0.0
+['negative term weights'],0,0,0.0
+"['term weight', 'term weights']",1,1,1.0
+['recall'],1,1,1.0
+['precision'],1,1,1.0
+['positive feedback'],1,1,1.0
+"['ir systems', 'ir system']",1,1,1.0
+['image search system'],1,1,1.0
+['ranking'],1,1,1.0
+['ide dec-hi'],1,1,1.0
+['probabilistic relevance feedback'],1,1,1.0
+['classifier'],1,1,1.0
+['naive bayes probabilistic model'],1,1,1.0
+['boolean indicator variable'],1,1,1.0
+['relevance of a document'],1,0,0.0
+['collection statistics'],1,1,1.0
+['term distribution'],1,1,1.0
+['information retrieval'],1,1,1.0
+['cross-language information retrieval'],1,1,1.0
+['collection vocabulary'],1,1,1.0
+['rocchio relevance feedback model'],1,1,1.0
+['cluster'],1,1,1.0
+['multimodal class'],1,1,1.0
+['vocabulary'],1,1,1.0
+['document clusters'],1,1,1.0
+['web search engines'],1,1,1.0
+"['document', 'documents']",1,1,1.0
+['web search'],1,1,1.0
+['search interfaces'],1,0,0.0
+['excite search engine'],1,1,1.0
+['evaluation of relevance feedback strategies'],1,0,0.0
+['retrieval performance'],1,1,0.0
+['effectiveness of relevance feed- back'],1,0,
+['precision-recall graph'],1,1,1.0
+['mean average precision'],1,1,1.0
+['residual collection'],1,1,1.0
+['relevance judgments'],1,1,1.0
+['effectiveness'],0,0,1.0
+['blind relevance feedback'],1,1,1.0
+['query reformulation'],1,1,1.0
+['trec ad hoc task'],1,1,1.0
+['indirect relevance feedback'],1,1,1.0
+['implicit relevance feedback'],1,1,1.0
+['explicit feedback'],1,1,1.0
+['clickstream mining'],1,1,1.0
+['web search query'],1,1,1.0
+['information filter'],1,1,1.0
+['active learning'],0,0,0.0
+['rf'],0,0,0.0
+['ir query'],1,1,1.0
+['negative feedback'],1,1,1.0
+['query term weights'],1,1,1.0
+['term-weighting'],1,1,1.0
+['spelling correction techniques'],1,1,1.0
+['term frequency'],1,1,1.0
+['results set'],0,0,0.0
+['excite web search engine'],1,1,1.0
+['full relevance feedback'],1,1,1.0
+['clickstream data'],1,1,1.0
+['web link structure'],1,1,1.0
+['implicit feedback'],1,1,1.0
+['relevance feedback strategies'],1,1,1.0
+['interactive relevance feedback'],1,1,1.0
+['directhit search engine'],1,1,1.0
+['retrieval process'],1,1,1.0
+['optimal query vector'],0,1,1.0
+['optimal query'],0,1,1.0
+['underlying theory'],0,0,0.0
+"[""salton's smart system""]",1,1,1.0
+['term'],1,1,1.0
+['search'],1,1,1.0
+"['equation', 'equations']",0,0,0.0
+['misspellings'],0,0,1.0
+['language cluster'],0,0,0.0
+"[""searcher's vocabulary""]",1,0,1.0
+['relevance feedback techniques'],1,1,1.0
+['retrieval'],1,1,1.0
+['retrieved document quality'],0,0,1.0
+['term-based comparison'],0,0,0.0
+['ad hoc retrieval'],1,1,1.0

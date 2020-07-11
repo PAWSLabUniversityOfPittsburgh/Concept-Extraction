@@ -1,0 +1,32 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['probabilistic information retrieval'],1,1,1
+['relevance feedback'],1,1,1
+"['relevant documents', 'relevant document']",1,1,1
+['nonrelevant documents'],1,1,1
+['classifier'],1,1,1
+"['documents', 'document']",1,1,1
+['ir'],1,1,1
+['probabilistic approach'],1,1,1
+['retrieval model'],1,1,1
+['term weights'],1,1,1
+"['information needs', 'information need']",1,1,1
+['query representations'],1,1,1
+['document representations'],1,1,1
+['boolean model of ir'],1,1,1
+['vector model of ir'],1,1,1
+['index terms'],1,1,1
+['query'],1,1,1
+['ir system'],1,1,1
+['probability theory'],1,1,1
+['probability ranking principle'],1,1,1
+['binary independence model'],1,1,1
+['okapi bm25 weighting scheme'],1,1,1
+['bayesian network models'],1,1,1
+['probabilistic language modeling approach'],0,0,0
+['term'],1,1,1
+['tokenized'],0,0,0
+['non-positional index'],1,1,1
+['vector space models'],1,1,1
+['boolean models'],1,1,1
+['probabilistic retrieval model'],1,1,1
+['probabilistic language modeling'],1,1,1

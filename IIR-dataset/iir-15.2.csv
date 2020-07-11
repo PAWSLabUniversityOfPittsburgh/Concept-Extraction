@@ -1,0 +1,89 @@
+Concepts,Annotator 1,Annotator 2,Annotator 3
+['soft margin classification'],1,1,1
+['high dimensional problems'],1,1,1
+['text classification'],1,1,1
+['training set'],1,1,1
+['decision margin'],1,1,1
+['slack variables'],1,1,1
+['svm optimization problem'],1,1,1
+['optimization problem'],1,1,1
+['margin'],1,1,1
+['soft-margin svms'],1,1,1
+['regularization'],1,1,1
+['geometric margin'],1,1,1
+['dual problem'],1,1,1
+['lagrange multipliers'],1,1,1
+['support vectors'],1,1,1
+['training data'],1,1,1
+"['svms', 'svm']",1,1,1
+['complexity of training'],1,1,1
+['complexity of testing'],1,1,1
+"['linear svms', 'linear svm']",1,1,1
+['linear svms'],1,1,1
+['linear svm'],1,1,1
+"['qp', 'qps']",1,1,1
+"['training data sets', 'training data set']",1,1,1
+['training algorithm'],1,1,1
+['naive bayes model'],1,1,1
+['nonlinear svms'],1,1,1
+['training complexity'],1,1,1
+['multiclass svms'],1,1,1
+"['two-class classifiers', 'two-class classifier']",1,1,1
+['ova classification'],1,1,1
+['one-versus-all classification'],1,1,1
+['one-versus-one classifiers'],1,1,1
+['training classifiers'],0,0,0
+['structural svms'],1,1,1
+"['linear classifier', 'linear classifiers']",1,1,1
+['higher dimensional space'],1,1,1
+['quadratic function'],1,1,1
+['higher-dimensional feature space'],1,1,1
+['kernel trick'],1,1,1
+"['dot product', 'dot products']",1,1,1
+"['kernel function', 'kernel functions']",1,1,1
+['mercer kernels'],1,1,1
+"[""mercer's condition""]",1,1,1
+['reproducing kernel hilbert space'],1,1,1
+['hilbert space'],1,1,1
+['vector space'],1,1,1
+"['polynomial kernels', 'polynomial kernel']",1,1,1
+"['radial basis functions', 'radial basis function']",1,1,1
+['quadratic kernel'],1,1,1
+['gaussian distribution'],1,1,1
+['machine learning'],1,1,1
+['topic classification'],1,1,1
+['mi feature selection'],1,1,1
+['naive bayes'],1,1,1
+['svm model'],1,1,1
+['noise documents'],1,1,1
+['classification'],1,1,1
+['svm algorithms'],1,1,1
+['one-versus-rest classifiers'],1,1,1
+['one-versus-all classifiers'],1,1,1
+['classifiers'],1,1,1
+['feature vector'],1,1,1
+['k means'],1,1,1
+['linear kernel'],1,1,1
+['text classifier'],1,1,1
+['machine learning methods'],1,1,1
+['fat decision margin'],0,0,0
+['outliers'],1,1,1
+['noisy examples'],0,0,1
+['training errors'],1,1,1
+"['term', 'terms']",1,1,1
+['overfitting'],1,1,1
+['underlying qp'],0,0,0
+['super-linear training time'],1,0,0
+['traditional svm algorithms'],0,0,0
+['features'],1,1,1
+['quadratic optimization'],1,1,1
+['higher-order features'],1,1,1
+['multiclass classification'],1,1,1
+['multiclass problems'],1,1,1
+['svm linear classifier'],1,1,1
+['data point vectors'],0,0,0
+['gram matrix'],1,1,1
+['text applications'],0,0,0
+['string kernels'],1,1,1
+['feature conjunctions'],1,1,1
+['cubic kernel'],1,1,1
