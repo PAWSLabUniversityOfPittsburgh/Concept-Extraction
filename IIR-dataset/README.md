@@ -1,3 +1,5 @@
+This project is on developing and evaluation of a systematic knowledge engineering approach for fine-grained annotation of textbooks with underlying knowledge in the form of concepts.
+
 ## Data
 
 The dataset includes two parts: all the annotation files and some section samples from [IIR textbook](https://nlp.stanford.edu/IR-book/information-retrieval-book.html).

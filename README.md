@@ -1,2 +1,3 @@
-# Concept-Extraction
-This project is on developing and evaluation of a systematic knowledge engineering approach for fine-grained annotation of textbooks with underlying knowledge in the form of concepts. 
+# Feature-based Concept Extraction
+
+This project provides a flexible framework which can train domain-specific concept extractors on label data. It provides an easy way to do feature engineering and currently supports 24 different types of features.
