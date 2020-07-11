@@ -4,5 +4,6 @@
 archive/
 __pycache__/
 .raw/
+.idea/
 utils.py
 process.py
