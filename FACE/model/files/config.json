@@ -1,0 +1,224 @@
+{
+  "ConstantVariable":
+  {
+    "FeatureMin":
+    {
+      "Value": 10
+    },
+    "MaxGram":
+    {
+      "Value": 6
+    },
+    "MinStringLeng":
+    {
+      "Value": 3
+    },
+    "LongestMatchOnly":
+    {
+      "Value": "True"
+    },
+    "SpacyNLPModel":
+    {
+      "Value": "en_core_web_sm"
+    }
+  },
+  "Feature": {
+    "FeatureLength": {
+      "ModuleName": "feature_length",
+      "Tag": "leng",
+      "Type": "numerical:6",
+      "Path": "",
+      "Using": "True"
+    },
+     "FeatureDocumentTermFrequency": {
+      "ModuleName": "feature_document_term_frequency",
+       "Tag": "tfd",
+       "Type": "numerical:10",
+       "Path": "",
+      "Using": "True"
+    },
+    "FeatureContainNamedEntity": {
+      "ModuleName": "feature_contain_named_entity",
+       "Tag": "contain_named_entity",
+       "Type": "categorical:null",
+       "Path": "",
+      "Using": "True"
+    },
+    "FeatureIsNamedEntity": {
+      "ModuleName": "feature_is_named_entity",
+       "Tag": "is_named_entity",
+       "Type": "categorical:null",
+       "Path": "",
+      "Using": "True"
+    },
+    "FeatureContainStopWord": {
+      "ModuleName": "feature_contain_stop_word",
+       "Tag": "contain_stop_word",
+       "Type": "categorical:null",
+       "Path": "",
+      "Using": "True"
+    },
+    "FeatureStartEndWithStopWord": {
+      "ModuleName": "feature_start_end_with_stop_word",
+       "Tag": "start_end_with_stop_word",
+       "Type": "categorical:null",
+       "Path": "",
+      "Using": "True"
+    },
+    "FeatureContainSpecialWord": {
+      "ModuleName": "feature_contain_special_word",
+       "Tag": "contain_special_word",
+       "Type": "categorical:null",
+       "Path": "",
+      "Using": "False"
+    },
+    "FeaturePOSALL": {
+      "ModuleName": "feature_pos_all",
+       "Tag": "pos_all",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeaturePOS": {
+      "ModuleName": "feature_pos",
+       "Tag": "pos",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeatureLengthPOS": {
+      "ModuleName": "feature_length_pos",
+       "Tag": "length_pos",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeatureWord_1_left": {
+      "ModuleName": "feature_word_1_left",
+       "Tag": "word_1_left",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeatureWord_1_right": {
+      "ModuleName": "feature_word_1_right",
+       "Tag": "word_1_right",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeatureWord_2_left": {
+      "ModuleName": "feature_word_2_left",
+       "Tag": "word_2_left",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeatureWord_2_right": {
+      "ModuleName": "feature_word_2_right",
+       "Tag": "word_2_right",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeatureWord_3_left": {
+      "ModuleName": "feature_word_3_left",
+       "Tag": "word_3_left",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeatureWord_3_right": {
+      "ModuleName": "feature_word_3_right",
+       "Tag": "word_3_right",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeaturePOS_1_left": {
+      "ModuleName": "feature_pos_1_left",
+       "Tag": "pos_1_left",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeaturePOS_1_right": {
+      "ModuleName": "feature_pos_1_right",
+       "Tag": "pos_1_right",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeaturePOS_2_left": {
+      "ModuleName": "feature_pos_2_left",
+       "Tag": "pos_2_left",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeaturePOS_2_right": {
+      "ModuleName": "feature_pos_2_right",
+       "Tag": "pos_2_right",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeaturePOS_3_left": {
+      "ModuleName": "feature_pos_3_left",
+       "Tag": "pos_3_left",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeaturePOS_3_right": {
+      "ModuleName": "feature_pos_3_right",
+       "Tag": "pos_3_right",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "True"
+    },
+    "FeatureShape": {
+      "ModuleName": "feature_shape",
+       "Tag": "shape",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "False"
+    },
+    "FeatureC_value": {
+      "ModuleName": "feature_c_value",
+       "Tag": "c_value",
+      "Type": "numerical:20",
+      "Path": "",
+      "Using": "False"
+    },
+    "FeatureTFC": {
+      "ModuleName": "feature_tfc",
+       "Tag": "tfc",
+      "Type": "numerical:10",
+      "Path": "./model/files/statistics.pkl",
+      "Using": "True"
+    },
+    "FeatureTFIDF": {
+      "ModuleName": "feature_tfidf",
+       "Tag": "tfidf",
+      "Type": "numerical:10",
+      "Path": "./model/files/statistics.pkl",
+      "Using": "False"
+    },
+    "FeatureOkapi": {
+      "ModuleName": "feature_okapi",
+       "Tag": "okapi",
+      "Type": "numerical:15",
+      "Path": "./model/files/statistics.pkl",
+      "Using": "True"
+    },
+    "FeatureExistingPhrase":
+    {
+      "ModuleName": "feature_existing_phrase",
+       "Tag": "existing_phrase",
+      "Type": "categorical:null",
+      "Path": "",
+      "Using": "False"
+    }
+  }
+}

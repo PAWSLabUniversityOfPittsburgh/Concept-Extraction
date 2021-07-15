@@ -1,0 +1,607 @@
+NN$
+NNS$
+NN NN$
+NN NNS$
+NN NN NN$
+NN NN NNS$
+NN NN NN NN$
+NN NN NN NNS$
+JJ NN$
+JJ NNS$
+JJ NN NN$
+JJ NN NNS$
+JJ NN NN NN$
+JJ NN NN NNS$
+JJ JJ NN$
+JJ JJ NN NN$
+JJ JJ NNS$
+JJ JJ NN NNS$
+NN HYPH NN$
+NN HYPH NN NN$
+NN HYPH NNS$
+NN HYPH NN NS$
+CD NN$
+CD NNs$
+CD NN NN$
+CD NN NN NN$
+CD NN NNS$
+CD NN NN NNS$
+CD JJ NN$
+CD JJ NN NN$
+CD JJ NNS$
+CD JJ NN NNS$
+VBN NN$
+VBN NNS$
+NN HYPH IN NNS$	walk-in closets
+NN HYPH IN NN$
+NNS IN NN$	lots of glass
+NNS IN NNS$
+#NN IN NN NN$
+#NN IN NN NNS$	plenty of wood accents
+#NNS IN JJ NN$	lots of natural light
+#NNS IN NN NN$
+#NNS IN NN NNS$
+JJ NN HYPH NN NN$	large walk-in closet
+JJ NN HYPH NN NNS$	large walk-in closets
+JJR NN HYPH NN NN$	larger walk-in closet
+JJR NN HYPH NN NNS$	larger walk-in closets
+#DT NN NNS$	no popcorn ceilings
+#DT NN NN$
+IN HYPH NN NN$	in-unit laundry
+IN HYPH NN NNS$
+JJ CD '' VBG NN$	large 20' living room
+JJ CD '' VBG NNS$	large 20' living rooms
+CD NNP NN NN$	2501 del rio road
+CD NNP NN NNS$
+CD NN SYM NN$	1 den/bedroom
+CD NN SYM NNS$
+CD NN CD NN$	2 bedroom 1 bath
+CD NNS CD NNS$	3 bedrooms 2 baths
+CD NNS CD NN$
+CD NN CD NNS$
+CD NN HYPH CD NN$	2 bedroom - 2 bath
+NN NNS NN$	bayside lakes shopping
+JJ , JJ NN$	big, open kitchen
+JJ , JJ NNS$
+JJ VBN NN$	large screened porch
+JJ VBN NNS$
+RBS JJ NN$	most beautiful home
+RBS JJ NNS$
+JJ IN NN$	full of fish
+NN JJ NN$	smoke free home
+NN JJ NNS$
+#NN CC NN NNS$	jack and Jill bedrooms
+JJ JJ JJ NN$	pristine active senior community
+JJ JJ JJ NNS$
+NN SYM NN NN$	bathtub/shower enclosure
+VBN NN NNS$	upgraded base boards
+VBN NN NN$
+CD HYPH NN NN NN$	nine-hole golf course
+RB VBN NN NN$	newly subdivided building lot
+RB VBN NN NNS$
+CD NNS IN NN$	100 feet of frontage
+JJ CD NNS$	buildable 3.97 acres
+JJ CD NN$
+VB HYPH RP NN$	eat-in kitchen
+VB HYPH RP NNS$
+VBN CD NN NN$	detached two car garage
+VBN CD NN NNS$
+VBN IN HYPH NN NN$	fenced in-ground pool
+VBN IN HYPH NN NNS$
+JJ HYPH NN NNS$	high-quality finishes
+JJ HYPH NN NN$
+CD HYPH NN NN$	two-car garage
+CD HYPH NN NNS$
+NN SYM NN$	washer/dryer
+NNS SYM NNS$
+#NN IN NN$	walk in closet
+#NN IN NNS$
+JJ HYPH JJ NN NN$	extra-large master bedroom
+JJ HYPH JJ NN NNS$
+RB JJ NN NN NN$	very specious one story home
+RB JJ NN NN NNS$
+CD JJ JJ NNS$	two nice sized bedrooms
+CD JJ JJ NN$
+RB JJ NN$	very relaxing backyard
+RB JJ NNS$
+JJ RP NNS$
+JJ RP NN$
+RB NN$
+RB NNS$	gently slopes
+RB VBN JJ NN NNS$	intricately detailed curved iron railings
+RB VBN JJ NN NN$
+NN VBN NN$
+RB VBN NN$	well established neighborhood
+RB VBN NNS$
+VBN HYPH RP NNS$	walk-in closets
+VBN HYPH RP NN$
+#VBN IN NN NNS$
+#VBN IN NN$
+#NN VBG NN$	wood burning fireplace
+NNS NN$	hunters paradise
+#NN JJ NN NN$	ne wild flower society
+#NN JJ NN NNS$
+VBD JJ NN$	tumbled marble fireplace
+VBD JJ NNS$
+JJ NN POS NN$	separate hunter's entrance
+JJ NN POS NNS$
+NNP NN$
+RB VBN$	completely renovated
+NN IN IN$	tile through out
+NN IN NNS$	carpet in bedrooms
+NN IN NN$	eat in kitchen
+JJ NN RB$	new paint inside
+NN CC NNS$	shopping and groceries
+RB IN NNP NN$	close to wickham park
+NNS IN DT NN$	minutes from the beach
+NNP NNP$	resort community
+NNP NNPS$	tennis courts
+JJ NNP$	private beach
+JJ NNP NNP$	beautiful town beach
+NNP NNP VBZ$	golf cart trails
+VBN IN CD$	built in 2005
+NN IN VBN NN$	wrap around covered porch
+PRP$ JJ JJ NN$	your own stocked pond
+NN VBD$	storage shed
+CD NN VBD NN$	2 car detached garage
+NNP NNP NN$	new york border
+NNP$	septic
+NN NN IN NN$	power pole on property
+JJ RB UH$	mobile home okay
+NNP POS JJ$	rv's okay
+NN NNS -LRB- NNP -RRB- VBD$	vacation rentals (airbnb) allowed
+NN VBN$	survey done
+NN NN CD$	boat ramp 5
+NN IN DT NN$	end of the road
+VBG DT JJ NN$	overlooking a lush lawn
+NN CC NN NNS$	tack & storage areas
+RB NN NN$	saltillo tile flooring
+VBD NN$	remodeled bathroom
+NNS IN$	updates throughout
+VBN NN IN NNP$	vaulted ceiling in mbr
+VBN JJ RB$	covered circular driveway
+NN RB$	irrigation well
+CD$	41west
+NNP NNP NNP$	urban san diego
+CD CD NNS$	10' ceilings
+JJ JJ NNPS$	large outdoor balconies
+CD NNPS$	10 stories
+JJ NNPS$	sweeping views
+NNP CD NNP$	lovely 3 bedroom
+CD NNP NNP$	2 full bath
+NNP NNP NNP NNP$	north monroe gardens sub
+NN NN JJ NN$	gorgeous real hardwood flooring
+IN NN NN NN$	great spacious floor plan
+JJ VBP$	french doors
+NNP VBN IN NNP$	beautiful fenced in yard
+DT NNS$	all appliances
+NN NN NN VBP$	window air conditioning units
+CD CC NNP NN$	1+ acre lot
+NN NN JJ NNS$	rock garden perennial beds
+VBD NNS$	built ins
+NN NNP$	wood fp
+JJ NNP NNS$	beautiful hw floors
+JJ NN NNP$	main floor fr
+NN , NN NNP$	office w/ wood fp
+CD SYM VB$	5100+ fsf
+IN CD NNS$	over 5 acres
+CD NNP$	4 bedrooms
+VBN RB$	sold together
+NNP VBG$	easy living
+NNP HYPH IN NN NN$	walk-in level condo
+VBD IN NNP , NNP$	located in hollister, mo
+JJ NN JJ$	wonderful recreation available
+NNS IN NNP NNP$	banks of lake taneycomo
+JJ NNS TO VB$	nice areas to walk
+VBN IN DT NNS$	offered with all appliances
+JJ NN IN VBG$	huge island for entertaining
+JJ VBN NN NN$	pivot framed glass door
+JJ NN HYPH RP NN$	spacious walk-in closet
+VB HYPH RB JJ$	move-in ready
+NN JJ$	energy efficient
+NN VBN IN CD$	roof replaced in 2016
+JJ NN IN NNP$	quick access to galleria
+NNP SYM NNP NNP NNP$	pershing/pin oak middle
+NNP CD$	strada 234
+IN HYPH JJ CD NN$	over-sized 1 bed
+VBG NNS$	commanding views
+JJ VBG NN$	front facing home
+NN IN NN NNS$	floor to ceiling windows
+NNP JJ NN NNS$	bosch stainless steel appliances
+NNP IN NNP$	hub on causeway
+NNP NNP SYM NNP$	north end/waterfront
+JJ CD NNP$	large 4 br
+VBN NNP$	expanded patio
+VBD NNP NNP$	tiled back splash
+RB JJ$	extremely clean
+RB IN DT NN$	south of the highway
+NNS IN JJ NNS$	miles of panoramic waterviews
+NN NNP NNP$	architect grosvenor atterbury
+VBG RB JJ NNS$	boasting very dramatic views
+NNP VBZ$	anderson windows
+NNP NNP NN NNS$	hunter douglas window coverings
+NN JJ RB$	energy efficient home
+JJ NN SYM NN$	central heat/air
+NNS IN VBG NN$	views over looking farm
+VB IN JJ$	move in ready
+JJ NNP RB$	immediate move in
+NN IN NNP NNP$	community of severn place
+RB IN NNP NNP$	close to ft meade
+CD SYM _SP CC IN$	3,000+  sq ft
+VB RP NN$	walk out basement
+CD NN JJ NN$	3 unit multi family
+JJ IN NNS$	good for renters
+JJ NNP NN$	meticulous mediterranean estate
+IN CD JJ NNS$	over 3 prominent acres
+JJ CC JJ NN$	long and private driveway
+NN NN POS NN$	gourmet chef's kitchen
+NN HYPH VBN NN$	mahogany-paneled office
+VB CD NNS$	sleep 14 people
+NNP NNP NNP CD$	eagle mountain phase 2
+NNP POS NNP NNP NNP$	beaver's bend state park
+VBN NN HYPH NN HYPH NN$	wooded cul-de-sac
+VBG NN$	surrounding nature
+VB HYPH NN NN$	walk-out basement
+VBG NN IN NN$	living area with fireplace
+NN IN NN NN$	mother in law suite
+JJ NNP NNP NNP$	whimsical west salem cottage
+JJ VBP NN NNS$	butcher?s block counter tops
+CD NN .$	4,457 sq.ft.
+NNP NNS$	viking appliances
+PRP$ SYM PRP$ NNS$	his/her closets
+NN NN SYM NN$	gas grill/firepit
+JJ JJ NN NN SYM NN$	heated pebble tec pool/spa
+RB VBN IN$	painstakingly cared for
+CD CC JJ NN$	one and only owner
+JJ$	stunning
+NN VBZ JJ$	setting is spectacular
+RB HYPH VBG NN NN$	easy-flowing floor plan
+NN VB$	boat shed
+VBG CD NNP NNP$	charming 3/4 br cape
+JJR NN$	newer roof
+NN CC NN$	washer and dryer
+JJ NN IN NN$	laundry room off kitchen
+$ CD IN NNS VBN$	$10,000 in upgrades included
+NN HYPH RP NN$	walk-in closet
+NNP NN NN$	huge loft area
+NN HYPH JJ NNS$	energy-efficient appliances
+NNS IN NN NN$	tons of cabinet space
+VBD CD HYPH NN NN$	attached two-car garage
+VBN$	bricked
+JJ NN CC NN$	outdoor living and entertainment
+NN IN JJ NN$	fireplace in great room
+VBG DT NNP NN$	overlooking the golf course
+VB IN NN$	walk in closet
+JJ CC VBG NNP$	separate and freestanding casita
+RB JJ NN NN$	fully dry storage basement
+VBN IN$	fenced in
+IN NN NN$	under deck storage
+NN VBD NN NN$	motion detected recording video
+NNP NNP IN NNP$	lake jackson in sebring
+JJ NNS CC NN$	gorgeous trees and landscaping
+JJ NNS NN$	small kids refrigerator
+NNS IN JJ NN$	lots of counter space
+JJ NN JJ NN$	triple basin stainless sink
+NN IN VBN HYPH NNS$	wall of built-ins
+NN HYPH RP NN NN$	walk-in master closet
+NNS NNS$	plantations shutters
+VBP NN VBG IN$	laminate hardwood flooring throughout
+NNS VBP NN VBN$	showers are glass enclosed
+NNP JJ JJ NN$	alfresco industrial outdoor grill
+VBG$	relaxing
+NN , NN$	washer, dryer
+JJ NN RB NN$	nice size back yard
+NNP NNP JJ JJ$	master bedroom extraordinary large
+CD NNP NN$	two story home
+JJ NNP NN NN$	huge rv parking space
+JJ CD NN NN$	large two car garage
+NN NN IN VBG$	yard space for entertaining
+NNP NNP VBG$	high desert setting
+NNP NNP , NNP NNP$	santa fe, new mexico
+NNPS$	sandias
+NN POS NN$	cook's kitchen
+JJ NN HYPH NN NN NN$	gorgeous fire-side living room
+VB IN JJ NN$	spa like ensuite bath
+NNP VBZ IN$	hdwd floors throughout
+NNP POS NN NN$	atl's premier shopping
+NNP VBD$	fha approved
+CD CD NN$	2 1/2 bath
+RB VBN JJ NN$	freshly painted first floor
+VBN HYPH RP NN NNS$	built-in linen cabinets
+JJ , JJ JJ NN$	new, neutral colored carpet
+JJ NN SYM NN NN$	stackable washer/dryer space
+NNP CC JJ$	peace and quiet
+NN NNP NNS$	pineview lake estates
+NNP CC NNP NNP$	gas and electric underground
+NNP NNP NNPS$	les cheneaux islands
+VBN NNP CD NN$	wooded island 8 lot
+NN CD$	island 8
+VB NNS$	redwood forests
+JJ CC JJ$	peaceful and quiet
+NNP NNP NNP NN$	martin rd eco preserve
+CD NN NNP$	2 story colonial
+NN JJ NN IN$	brand new flooring throughout
+VBN JJ NN$	updated modern kitchen
+NNP POS NNP$	daddy's creek
+NN HYPH NN HYPH NN NNS$	cul-de-sac lots
+NNP CD NNP POS NNP$	lot 36 craven's grant
+UH$	hoa
+RB IN NN NN$	not in flood zone
+VBN VBN NN NN$	assigned covered parking space
+VBN IN NN$	built in oven
+JJ NN VBG$	wooden privacy fencing
+VB DT NNS$	enjoy the views
+JJ IN VBG$	ideal for entertaining
+NN JJ NN NNS$	brand new quartz counters
+VBD$	gated
+NN VBG NNS$	family sitting areas
+VBD NN NN$	enclosed glass shower
+JJ VBN NN NNS$	dual mirrored vanity sinks
+JJ NNS SYM NNS$	multiple sheds/workshops
+NNS IN NN NNS$	miles of horse trails
+DT NNP$	the dominion
+CD NN UH$	3901+/- sq ft
+CD '' NN$	74" fireplace
+NNP VBN NN$	contemporary equipped kitchen
+VB JJ NN$	wooded common ground
+JJ HYPH NN NN NN$	under-stair toddler hideaway
+JJ NN NN SYM NNP$	open family room/loft
+JJ TO VB RP$	ready to move in
+VBD NNP$	updated electrical
+PRP$ JJ JJ NN$	your own stocked pond
+PRP$ SYM PRP$ NNS$	his/her closets
+$ CD IN NNS VBN$	$10,000 in upgrades included
+PRP$ JJ JJ NN$	your own stocked pond
+PRP$ SYM PRP$ NNS$	his/her closets
+$ CD IN NNS VBN$	$10,000 in upgrades included
+VB NN$	duct work
+VBP IN RB$	tile through out
+JJ NN IN$	new paint inside
+NN IN CC RB$	paint inside and out
+CD HYPH CD NN NN$	3/2-2 car garage
+VBZ DT NN$	fits the bill
+NNP , NNP$	walking, biking
+NNP NNP IN NN$	main street in town
+NN RB JJ NN$	wrap around covered porch
+PRP$ JJ JJ NN$	your own stocked pond
+CD NN VBN NN$	2 car detached garage
+JJ NN UH$	mobile home okay
+NN NNS -LRB- RB -RRB-$	vacation rentals (airbnb)
+NN NNS -LRB- RB -RRB- VBN$	vacation rentals (airbnb) allowed
+CD NN RB$	two storey home
+NN NNP CD$	boat ramp 5
+JJ JJ NNP$	fabulous equestrian estate
+NNP CC NNS$	barn & pens
+NN IN DT NNP$	view of the barn
+VBZ IN$	updates throughout
+VB$	barn
+JJ NNP NNPS$	large outdoor balconies
+CD IN DT JJ NN$	one of a kind development
+NNP CD NNS$	lovely 3 bedroom
+CD NNP NNS$	2 full bath
+IN DT NN NN$	under a quarter acre
+NNP NNP VBZ NNP$	north monroe gardens sub
+NNP JJ NN NN$	gorgeous real hardwood flooring
+JJ NNS NNS NN$	great spacious floor plan
+NN RP RB$	deck out back
+NNP VB$	huge shed
+NNP NN NN NNP$	window air conditioning units
+RB VBD NN$	recently finished garage
+VBN CC VBN$	insulated & heated
+NN NN NN NNP$	office w/ wood fp
+NN IN DT NNP NNP$	mouth of the elk river
+JJ NN -LRB- IN NNP -RRB-$	geothermal heat (off peak)
+NN -LRB- VBN CC VBN -RRB-$	garage (insulated & heated)
+CD CC JJ$	5100+ fsf
+NN IN CD CC JJ$	potential for 5100+ fsf
+VB PRP$ NN RB$	build your dream home
+NNP VBP$	perc permit
+JJ , JJR NN$	front, larger lot
+JJR , JJ NN$	smaller, back lot
+`` JJ IN NN '' NN$	"right of way" access
+VBG VBN RB$	being sold together
+NNP CD CC NNP$	lot 11 & 10b
+JJ VBG$	easy living
+VB HYPH RP NN NN$	walk-in level condo
+VBN IN NNP , NNP$	located in hollister, mo
+VBG NN CC NN$	including washer and dryer
+VBN TO VB$	priced to sell
+IN CD NN$	over 3600 sf
+JJ NN IN JJ$	huge island for entertaining
+NN VBN NN NN$	pivot framed glass door
+VB HYPH IN JJ$	move-in ready
+NNP VBD IN CD$	roof replaced in 2016
+VB VBN NNP NNP$	top rated lovett elementary
+VBG SYM NN NNP NNP$	pershing/pin oak middle
+RB HYPH JJ$	over-sized
+RB HYPH JJ CD NN$	over-sized 1 bed
+JJ NN NN ,$	large breakfast bar,
+CD NNP NN NNP NNP$	1.5m sq ft hub
+VB CC VB$	relax and enjoy
+NNP NNP DT NN$	community pool all summer
+JJS NN IN NNP$	best buy in hempsteade
+CD NNP RB$	3 bath home
+VBG JJ NN$	overlooking private yard
+NNP VBG JJ NN$	patio overlooking private yard
+NNP NNP NNP NNPS$	shinnecock bayfront atterbury estates
+VBN IN CD NNS$	divided into 7 parcels
+JJS NNS IN NNP$	highest points in southampton
+JJS NN NN$	highest waterfront elevation
+CD NNS RB$	100 years ago
+VBN NN NNP NNP$	famed architect grosvenor atterbury
+RB VBN VBN VBN$	completely re-imagined
+NN VBZ JJ NNS$	property offers numerous opportunities
+JJ NN , CD$	recent remodel, 2014
+JJ NNP SYM NN$	central heat/air
+CD NN NN -LRB- VBN -RRB-$	two car garage (detached)
+NN IN JJ$	storage for grill
+NNP SYM NN NN$	shade/shelter cover
+NN IN NNP SYM NN NN$	concrete under shade/shelter cover
+IN JJ NN NNS$	over looking farm fields
+NN IN NNS JJ$	option for furnishings available
+VBN IN JJ NNP$	listed with local realtor
+NNP JJ NN$	great new price
+JJ NNS IN$	immediate move in
+JJ IN NNP NNP$	close to ft meade
+VBG IN NNP$	backing to woods
+CD CC _SP NNP NNP$	3,000+  sq ft
+VB RP$	rent out
+RB NN JJ$	almost mortgage free
+VB RB NN JJ$	live almost mortgage free
+NN IN NNP$	essence of montecito
+DT NN RB VBN$	every detail thoughtfully crafted
+NNP NN NNP NNP$	ocean view master suite
+RB HYPH VBN NNP NN$	well-appointed ocean view
+JJ NNS CC NNS$	modern updates and amenities
+JJ IN VBG NNS$	perfect for entertaining guests
+RB VB CD NNS$	comfortably sleep 14 people
+NN HYPH NN NN IN NNP$	walk-out basement with kitchenette
+NN VBG$	income producing
+VBN IN NN NN$	priced below market value
+NNP NNP CD$	property id 2742886
+VBG IN JJS$	calling for highest
+NN CC JJ NN$	charm and natural light
+NN IN CC IN$	paint inside and out
+NNP NN NN NNS$	butcher?s block counter tops
+NNP NNP NN NN$	antique claw foot tub
+NNS RB IN NN$	minutes away from downtown
+VBG $ CD NN$	offering $1000 credit
+NN TO VB NNS$	credit to refinish hardwoods
+CD NNS .$	4,457 sq.ft.
+`` NNP '' '' VB NN$	'venado'' greatroom floorplan
+VBN IN NNP NNP$	located in windgate ranch
+JJS NNS$	finest finishes
+DT VBG NNS$	all viking appliances
+JJ NN NNS IN$	solid wood doors throughout
+PRP$ SYM PRP$ NNS$	his/her closets
+VB NN NNS$	granite tile countertops
+VB HYPH NN NNS$	walk-up stairs
+JJ CD NNP NNP$	charming 3/4 br cape
+RB VBN JJ$	freshly painted interior
+DT JJ NN$	some new flooring
+NN CC NNP$	washer and dryer
+VBN JJ CC JJ$	painted interior and exterior
+NN NN RP NNP$	laundry room off kitchen
+NNP POS IN JJ NN$	br's on upper level
+NNS VBN$	upgrades included
+$ CD IN NNS VBN$	$10,000 in upgrades included
+VB IN PRP$ NN$	tailor to your family
+NNP NNP RB$	legacy estate home
+JJ NNP NNP RB$	spectacular legacy estate home
+NNS IN NNP$	counters with quartz
+VBP$	fireplace
+VBP IN JJ NN$	fireplace in great room
+NNP SYM NN$	den/office
+VBP IN NN$	walk in closet
+VBN NNP NNP$	leased solar system
+JJ CC NN NN$	social and fitness membership
+VB PRP$ NN NNS$	satisfy your fussiest buyers
+VBN IN IN CD$	remodeled as of 2015
+NN RB CC RB$	paint inside and out
+NN CC NN NN$	heat and air unit
+NN NN IN CD$	air unit in 2017
+VBN NN CC NN$	updated plumbing and wiring
+JJ , RB JJ NN$	large, fully dry storage
+NNS CC NNS$	pets and children
+-LRB- NNP VBN -RRB- NN NN$	(hard wired) security system
+VBZ CD NNS$	has four cameras
+NNP RB$	oak ridge?s
+JJS NN SYM NN$	largest playground/park
+NNP RB JJS NN SYM NN$	oak ridge?s largest playground/park
+RB VBG IN$	currently living in
+RB CD NN$	approximately one acre
+NNP NNP IN VBG$	lake jackson in sebring
+CD '' IN NN$	100' of lakefront
+NN VBZ NN$	exterior is brick
+CD NN VBD$	one wall oven
+CD NN VBN$	one convection oven
+NN NN MD VB$	everything chef will desire
+JJ JJ NNS NN$	additional small kids refrigerator
+JJ NNP JJ NN$	triple basin stainless sink
+NN IN JJ NNS$	booth for casual meals
+NN VBG NN$	loft living area
+NN HYPH VBN$	l-shaped
+NN VBG IN$	hardwood flooring throughout
+JJ NN VBG IN$	laminate hardwood flooring throughout
+DT NNS VBP NN$	all bathrooms have granite
+VB VBG$	enjoy relaxing
+NN NN RB$	living area downstairs
+NN , NNP$	washer, dryer
+NNP NNP VBZ NN$	master bath has shower
+JJ NN NN NN RB$	nice size living area downstairs
+NN , NNP CC NNP$	washer, dryer and refrigerator
+NN NN JJ$	foundation warranty transferable
+CD JJ NNP$	3 large bedroom
+JJR NN VBG$	newer vinyl sliding
+CD VBG NNS$	two living rooms
+NNS JJ IN NNS$	rooms great for gatherings
+NNP NNP HYPH VBN$	new mexico-surrounded
+NN , NN CC NN$	balance, diversity and integration
+NNS IN DT NNP$	views of the sandias
+JJ NNS IN DT NNP$	amazing views of the sandias
+NNS NNS IN$	hdwd floors throughout
+RB VBN CC VBN$	lovingly updated and maintained
+VB TO VB NN$	dare to compare location
+NN , NN , VB$	work, life, play
+RB IN NN$	close to shopping
+NN IN JJ NN ,$	plenty of wild life,
+VB DT JJ NN$	build that perfect dream
+NN RB JJR NN$	walk out lower level
+VB DT NN$	make an appointment
+NN NN RB VBD$	driveway approach already installed
+NNP VBZ VBN VBN$	rezone has been completed
+NFP NN VBN$	.45 acre parcel
+NNP RB JJR NN$	walk out lower level
+JJ VBN NNP$	beautiful wooded island
+VB PRP$ NN NN$	build your dream home
+JJ VBN NNP CD$	beautiful wooded island 8
+JJ , JJ CC JJ$	prime, peaceful and quiet
+RB DT JJ NN$	almost all usable land
+NN IN VBG NNS$	variety of building sites
+JJ NNP -LRB- NNP NNP -RRB-$	zoned tpz (cheaper taxes)
+VBD CD NN NNP$	refreshed 2 story colonial
+NNS VBP NN JJ$	bathrooms are brand new
+NNS TO VB NN$	bedrooms to be roomy
+NN NN HYPH NNS$	family get-togethers
+JJ IN NN NN HYPH NNS$	perfect for family get-togethers
+NN TO VB RP$	place to hang out
+RB IN IN NNP NNPS$	right off of street rd
+NN TO VB RB$	place to call home
+NN VBD NN$	deed restricted subdivision
+NNP HYPH JJ JJ JJ NNS$	cul-de-sac lots
+IN DT NN$	across the lake
+CD NN IN NN$	105-feet riverfront with deepwater
+NN IN DT NNS$	privacy with no neighbors
+RB CD SYM CD NNS JJ$	approximately 8-14 feet deep
+JJ , JJ$	peaceful, quiet
+JJ NN IN NNS$	great shape with updates
+JJ NN NNS RB$	main living areas downstairs
+JJ NN CD$	new carpet 2015
+NNP NNP NNS CD$	new hvac units 2015
+JJ NN NNS CD$	new vinyl windows 2015
+VBN IN JJ$	built in oven
+NN VBG JJ$	hardiplank siding exterior
+JJ NN IN RB$	large deck on back
+VBG NN CC NNS$	entertaining family and friends
+RB NN VBZ VBN$	back yard is fenced
+DT NNS IN NN$	no rooftops in sight
+VBZ NN CC NN$	maximizes space and comfort
+NNS CC NNS VBP$	kids and pets play
+JJ IN JJ$	ideal for entertaining
+NNS IN DT NNP NNP$	views of the ski area
+VB RB$	walk out
+JJ VBD$	stunning gated
+JJ VBD CD NN$	stunning gated 1-story horse
+VBN NN NNP$	jetted soaking tub
+IN CD NNS IN$	over 200 trees throughout
+NN NN IN NNS$	alarm system with cameras
+VBN IN NNS$	playground for kids
+RB VBN RB$	precisely crafted home
+CD `` NN$	74" fireplace
+VBN IN DT JJ NN$	located on a large lot
+NNS SYM NN$	media/office
+RB JJ NN NN SYM NNP$	upstairs open family room/loft
+JJ NNP , NNP CD$	new roof, june 2019
+JJ TO VB RB$	ready to move in
+NN NN NNP NN$	luxury vinyl plank flooring
+VBN VB NNP$	come see asap
