@@ -1,4 +1,4 @@
-# Feature-based Keypharse Extraction
+# Feature-based Keypharse Extraction (FACE)
 
 This project provides a flexible framework which can train domain-specific keyphrase extractors on label data. It provides an easy way to do feature engineering and currently supports 24 different types of features.
 
@@ -20,7 +20,7 @@ Install spaCy and NLTK libraries for NLP, and scikit-learn library for machine l
 
 ## Data
 
-The data includes two separate files: input text file and input label file.
+The data includes two separate files: input text file and input label file. You can find the entire Introduction to Information Retrieval textbook data set [[here]](https://github.com/PAWSLabUniversityOfPittsburgh/Concept-Extraction/tree/master/IIR-dataset). 
 
 The input text file follows the format: <doc_id>\<tab>\<text>
 ```
@@ -75,4 +75,21 @@ The corresponding output follows the format: <doc_id>\<tab>\<list_of_keyphrases_
 iir_1_3	[('inverted index', (35, 48)), ('inverted index', (147, 160)), ('postings lists', (333, 346)), ('postings', (301, 308)), ('postings', (242, 249)), ('intersection', (353, 364)), ('merge algorithm', (630, 644)), ('postings lists', (554, 567)), ('merging postings', (546, 561))]
 iir_1_4	[('free text queries', (141, 157)), ('vector space model', (79, 96)), ('ranked retrieval models', (43, 65)), ('Boolean retrieval model', (4, 26)), ('query', (343, 347)), ('documents', (316, 324)), ('term proximity operators', (1028, 1051)), ('Boolean search', (1607, 1620))]
 
+```
+
+## Cite
+If you use the code please cite the following paper:
+> Chau, H., Labutov, I., Thaker, K. et al. Automatic Concept Extraction for Domain and Student Modeling in Adaptive Textbooks. Int J Artif Intell Educ 31, 820–846 (2021). [[Paper]](https://link.springer.com/article/10.1007%2Fs40593-020-00207-1)
+```
+@article{Chau2020JAIED,
+  author    = {Hung Chau and
+               Igor Labutov and
+               Khushboo Thaker and
+               Daqing He and
+               Peter Brusilovsky},
+  title     = {Automatic Concept Extraction for Domain and Student Modeling in Adaptive Textbooks},
+  journal   = {International Journal of Artificial Intelligence in Education},
+  year      = {2020},
+  publisher = {Springer}
+}
 ```
